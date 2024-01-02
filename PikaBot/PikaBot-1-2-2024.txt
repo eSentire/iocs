@@ -1,0 +1,24 @@
+PikaBot payload download URLs:
+
+paldiengineering[.]com/8WjmD9n/
+gofly[.]id/P9g/
+holyrosaryinternational[.]com/N1H3/
+grehlingerssealcoating[.]com/3hidbt/
+israrliaqat[.]com/6wX4/
+saeedalkarmi[.]com/aT2ja9/
+
+PikaBot C2:
+
+172.232.172[.]171:13721
+
+Unpacked PikaBot DLL (e2d4a8aabd11821143b10e80cc60cbbf)
+
+Wiflgodjvo.dll (3f7068a385405afa46ef29bbe3ce9a21)
+
+Malicious MSI installer (dc823179200605501fb230576204d98dd6a1905c)
+
+Domains serving PikaBot MSI installers:
+
+anadesky.firstbasedso[.]com
+siack.firstbasedso[.]com
+zuum.firstbasedso[.]com
