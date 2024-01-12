@@ -1,0 +1,31 @@
+URLs:
+
+jesusanaya[.]com/GetData.php?5803
+jennifergalvin[.]com/cache/news.php?37668 
+
+Files:
+
+client32.exe - c4f1b50e3111d29774f7525039ff7086
+PCICHEK.DLL - 104b30fef04433a2d2fd1d5f99f179fe
+PCICL32.DLL - d3d39180e85700f72aaae25e40c125ff
+remcmdstub.exe - 6fca49b85aa38ee016e39e14b9f9d6d9
+Settings.txt - f701bcc5b69e12b677e177ee8a77207e
+TCCTL32.DLL - eab603d12705752e3d268d86dff74ed4
+Be.Windows.Forms.HexBox.dll - e6f7b8c5ec4d1543eaa7f5d148c6327c
+client32.ini - b11f62b15f97cf5afb117e967c223882
+credits.txt - 188445ed226bd5be91f912b6163d7e21
+HTCTL32.DLL - c94005d2dcd2a54e40510344e0bb9435
+HTML_Obj_list.txt - 1c403823b12fc49609bc1f4a66a5b9b4
+libssl-3-x64.dll - 4ad9afd9ff710d89aa7530241771f9d9
+msvcr100.dll - 0e37fbfa79d349d672456923ec5fbbe3
+nskbfltr.inf - 26e28c01461f7e65c402bdf09923d435
+NSM.ini - 88b1dab8f4fd1ae879685995c90bd902
+NSM.LIC - 1b41e64c60ca9dfadeb063cd822ab089
+nsm_vpro.ini - 3be27483fdcdbf9ebae93234785235e3
+pcicapi.dll - 34dfb87e4200d852d1fb45dc48f93cfc
+Update_browser_17.6436.js - 69a1d7de741dd79441f391b846c626d7
+Update_browser_17.645330.js - f6956c8644d0cb619e1710115dd601ca
+
+C2
+
+5.181.156[.]235:443
