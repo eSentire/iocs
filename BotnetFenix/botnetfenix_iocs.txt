@@ -1,0 +1,23 @@
+Payloads:
+
+AvisodePrivacidadVirtual.zip - 95260c9385dbb1f52004e7ab5aceda96
+AvisodePrivacidad.url - 5b7828196de39400aad70a6153ec3433
+rfc.jse - a7fadf0050d4d0b2cefd808e16dfde69
+narnia.xls - 43f6c3f92a025d12de4c4f14afa5d098
+7i1.xls - 7f739c189c96d42bff65e8b7b7c42237
+0M1.xls - b28bb1c183383bef55bdf2d6e57b8863
+steal.crypt - 594804aa21887ee9d7b1b888f482d60c
+vc67j2.xls - 65a9575c50a96d04a3f649fe0f6b8ccd
+
+ 
+C2 URLs:
+
+45.77.71[.]28
+app.renovaserv.bio	
+app.quantumservice.lat	
+secure.serviupdate.bio	
+update.pararrayos05fvd.bar	
+russiancl.top	
+secureaddress.pisosg8tr.xyz
+
+
