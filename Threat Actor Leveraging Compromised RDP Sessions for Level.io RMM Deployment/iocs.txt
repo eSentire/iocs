@@ -1,0 +1,66 @@
+Payloads:
+
+netscan.exe - 52746d457f8ec149fd13dea85b654b19
+cob.zip - 192644d5f4fc2313bca0224210c0b6c7
+payload64.exe - 155560e1e4ea8fcce047514a52950859
+payload64_cr1.ex_ - 85a2eaf3821812f2acb6cb20a8705ddf
+payload64_cr2.ex_ - 0d9200f4c96a8143276af2c2e5b478f7
+payload64_cr3.ex_ - 85b0c8f7f70d6e4086035768d0cb19c6
+
+URLs:
+
+hxxps[://]temp[.]sh/VWXth/cob[.]zip
+
+Cobalt Strike Beacon C2:
+
+ambitenergycorporation[.]com
+devs.ambitenergycorporation[.]com
+
+Cobalt Strike beacon configuration:
+
+{
+  "BeaconType": [
+    "HTTPS"
+  ],
+  "Port": 443,
+  "SleepTime": 57330,
+  "MaxGetSize": 1867166,
+  "Jitter": 39,
+  "C2Server": "ambitenergycorporation.com,/userInteractionJson",
+  "HttpPostUri": "/_app",
+  "Malleable_C2_Instructions": [
+    "Remove 3030 bytes from the beginning",
+    "Base64 decode",
+    "Base64 URL-safe decode"
+  ],
+  "HttpGet_Verb": "GET",
+  "HttpPost_Verb": "POST",
+  "HttpPostChunk": 0,
+  "Spawnto_x86": "%windir%\\syswow64\\runonce.exe",
+  "Spawnto_x64": "%windir%\\sysnative\\runonce.exe",
+  "CryptoScheme": 0,
+  "Proxy_Behavior": "Use IE settings",
+  "Watermark": 674054486,
+  "bStageCleanup": "True",
+  "bCFGCaution": "False",
+  "KillDate": 0,
+  "bProcInject_StartRWX": "False",
+  "bProcInject_UseRWX": "False",
+  "bProcInject_MinAllocSize": 13603,
+  "ProcInject_PrependAppend_x86": [
+    "kJCQkJCQkA==",
+    "Empty"
+  ],
+  "ProcInject_PrependAppend_x64": [
+    "kJCQkJCQkA==",
+    "Empty"
+  ],
+  "ProcInject_Execute": [
+    "CreateThread",
+    "RtlCreateUserThread",
+    "CreateRemoteThread"
+  ],
+  "ProcInject_AllocationMethod": "VirtualAllocEx",
+  "bUsesCookies": "True",
+  "HostHeader": "Host: devs.ambitenergycorporation[.]com\r\n"
+}
