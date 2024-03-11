@@ -1,0 +1,16 @@
+URLs
+
+spnmandalawangi.banten.polri.go[.]id/Tax_docs_2023.htm
+91.92.243[.]28/poom/atom.xml 
+www.mediafire[.]com/file_premium/37z74w3icn8avhf/2022_TAX_RETURN_DOCUMENTS_%2528DAVILA_JONIQUE_L%252910000SIGNED.PDF/file
+
+Files
+
+Tax-docs-2023.pdf .js - 5706efd7e0254105261057a82308ed72
+atom.xml - c1614e86b6808df891c5d7310d089211
+James_Charles_Tax_2023.pdf - 7b47ca0383d2409fdc4ae629308bf4bc
+XWorm - fc422800144383ef6e2e0eee37e7d6ba
+
+C2
+
+91.92.243[.]28:4444
