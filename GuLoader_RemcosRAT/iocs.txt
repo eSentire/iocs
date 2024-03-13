@@ -1,0 +1,53 @@
+URLs:
+
+hxxps[://]jantickee[.]com/wp-content/Stanles1[.]png 
+hxxps[://]jantickee[.]com/wp-content/Stanles2[.]png
+hxxps[://]trivolibolit[.]com/wp-content/Hpzionse[.]png
+hxxps[://]trivolibolit[.]com/wp-content/Hpzion[.]png 
+
+Remcos C2:
+
+zarusouyt2994hesut01.duckdns[.]org
+zarusouyt2994hesut02.duckdns[.]org
+
+
+Payloads:
+
+2023clearance.doc - 35b78f9b4f1122f4a347c1ce37367278
+BurkeDocuments.pdf.lnk - 6213ff411cd8625c632de49cd6fe46c6
+Startvrdier.Fre - 7b17e9015f04a2041d612662ee9f9399
+Hpzionse[.]png - a5e106a1b7d3e24fa6361ac2f73333ee
+Hpzion[.]png - bd28afeb1bd6b819b0b6f96cb1ff87b6
+
+
+Remcos Configuration:
+
+  "Host:Port:Password": "zarusouyt2994hesut01.duckdns[.]org:1298:0zarusouyt2994hesut01.duckdns[.]org:1299:1zarusouyt2994hesut02.duckdns[.]org:1298:0",
+  "Assigned name": "Tasty",
+  "Connect interval": "1",
+  "Install flag": "Disable",
+  "Setup HKCU\\Run": "Enable",
+  "Setup HKLM\\Run": "Enable",
+  "Install path": "Application path",
+  "Copy file": "remcos.exe",
+  "Startup value": "Enable",
+  "Hide file": "Disable",
+  "Mutex": "kmcot-GBXZUN",
+  "Keylog flag": "1",
+  "Keylog path": "AppData",
+  "Keylog file": "kajorc.dat",
+  "Keylog crypt": "Disable",
+  "Hide keylog file": "Enable",
+  "Screenshot flag": "Disable",
+  "Screenshot time": "10",
+  "Take Screenshot option": "Disable",
+  "Take screenshot title": "",
+  "Take screenshot time": "5",
+  "Screenshot path": "AppData",
+  "Screenshot file": "Screenshots",
+  "Screenshot crypt": "Disable",
+  "Mouse option": "Disable",
+  "Delete file": "Disable",
+  "Audio record time": "5"
+  
+  
