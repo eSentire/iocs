@@ -1,0 +1,24 @@
+URLs:
+
+ads-analyze[.]top
+hxxps[://]telegra[.]ph/Poryadok-provedeniya-Gran-pri-obyazannosti-komand-i-pilotov-opredelyayutsya-sportivnym-reglamentom-Ego-polozheniya-dolzhny-neuko-01-21
+hxxps[://]eshoradebitcoin[.]com/3[.]dat
+hxxps[://]eshoradebitcoin[.]com/4[.]tar[.]gpg
+trelconf[.]net
+
+LummaC2:
+LID: BVbYiq--ALL-1
+asleepfulltytarrtw[.]shop
+
+SectopRAT:
+85.209.11[.]243
+
+Payloads:
+
+3.dat (Payk RunPE) - d6192209fb0ebf489f4628f069dadaf7
+4.tar.gpg - 1afc457b73329571a4f779ae10da28be
+monocycle.pkg - 301f27e3a0f8bafc23b568d6401cd39f
+msedge_elf.dll - ffc3339279f2ed42ec1ee74bec204174
+apocope.ppt - ec350d3b72ec124e51c01edde009bb8d
+Local_check.exe - f975a2d83d63a473fa2fc5206b66bb79
+Decrypted LummaC2 Stealer payload - 6401f27ae587abe02f3f2f9d6e39f353
