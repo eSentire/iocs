@@ -15,7 +15,7 @@ C2:
 hxxps://admiralpub[.]ca/wp-content/uploads/2017/ - opendir 
 hxxp://ianmckenzieanderson[.]com/wp-content/uploads/ - opendir
 hxxps://nrgtik[.]mx/wp-content/uploads/ - opendir
-hxxp://91.202.233[.]209/index.php - AZORult C2
-hxxp://195.123.217[.]199/index.php - AZORult C2
-hxxp://45.90.58[.]1/index.php - AZORult C2
-hxxp://121.127.33[.]20/index.php - AZORult C2
+hxxp://91.202.233[.]209/index.php - Koi Stealer C2
+hxxp://195.123.217[.]199/index.php - Koi Stealer C2
+hxxp://45.90.58[.]1/index.php - Koi Stealer C2
+hxxp://121.127.33[.]20/index.php - Koi Stealer C2
