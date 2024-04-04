@@ -1,0 +1,21 @@
+Files:
+
+chasebank_statement_mar.zip - 8751223ced55a2079e876b893917a0f3
+m8hHxtkVLYPw.bat - 099259c6d898c5d91dc3b01756e349d8
+chasebank_statement_mar.lnk - 044fd3c4d97a35f80792b7edee445c48
+WLXUL6LWXQPB.js (agent.js) - 48c7fd278ac590c9bd896ad9c7850c3a
+AZORult loader - 47e208687c2fb40bdbaa17e368aaa1bd
+sd2.ps1 - 4f55be0b55ec67dfda42b88e9c743a2a
+sd4.ps1 - 607b42bd61902ad5a5ea9f508e18a5a4
+agent1.ps1 - 96b251e61f987648f69767f398324652
+agent3.ps1 - a3ee8655f45c72f5231ded7a4a1c7e43
+
+C2:
+
+hxxps://admiralpub[.]ca/wp-content/uploads/2017/ - opendir 
+hxxp://ianmckenzieanderson[.]com/wp-content/uploads/ - opendir
+hxxps://nrgtik[.]mx/wp-content/uploads/ - opendir
+hxxp://91.202.233[.]209/index.php - AZORult C2
+hxxp://195.123.217[.]199/index.php - AZORult C2
+hxxp://45.90.58[.]1/index.php - AZORult C2
+hxxp://121.127.33[.]20/index.php - AZORult C2
