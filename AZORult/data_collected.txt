@@ -199,4 +199,11 @@ Kaspersky Edge - "eolheccophlcbnkkbelcgminoojochgj"
 authenticator.cc - "bhghoamapcdpbohphigoooaddinpkbai"
 authenticator.cc Edge - "ocglkepbibnalbgmbachknglpdipeoio"
 
+Targeted Browsers:
+
+Google Chrome
+Microsoft Edge
+Brave Software
+Opera Software
+Mozilla Firefox
 
