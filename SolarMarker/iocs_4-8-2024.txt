@@ -1,0 +1,13 @@
+Files:
+
+ChildCareWaiverRequest.exe - 02df78385af891a268212f6093b91154
+~BH-04918471412496586.pdf - 3ccb3a9ab45b0f6019c7fcefaea15e8f
+
+C2:
+
+194.15.216[.]196
+146.70.80[.]83
+
+Configuration:
+
+{"action":"ping","hwid":"REDACTED","pc_name":"REDACTED","os_name":"Win < 10","arch":"x64","rights":"-","version":"MAR-2","workgroup":"? | ?","dns":0,"protocol_version":2}
