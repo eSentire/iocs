@@ -1,0 +1,23 @@
+URLs:
+
+doggygangers.com/YfMv2QsjpCQl845BWSYNfNOQitweyze_Z6lIlrRr43MRjX_HrM/check_show_landing.php
+doggygangers.com/YfMv2QsjpCQl845BWSYNfNOQitweyze_Z6lIlrRr43MRjX_HrM/update_counter.php
+doggygangers.com/statistic/js/1CzXsWpVva0WHD7vxYI3x9DAUUgCHXA8
+doggygangers.com/YfMv2QsjpCQl845BWSYNfNOQitweyze_Z6lIlrRr43MRjX_HrM/stats/get_stats.php
+doggygangers.com/YfMv2QsjpCQl845BWSYNfNOQitweyze_Z6lIlrRr43MRjX_HrM/get_download_file_name.php
+w6trw.com/wp-content/uploads/UpdateSetup-x86.msix
+doggygangers.com/YfMv2QsjpCQl845BWSYNfNOQitweyze_Z6lIlrRr43MRjX_HrM/land/universal_land/
+seacraftsgallery.com/holder1000x300.dat
+
+
+C2:
+
+FakeBat - utm-msh.com
+LummaC2 - awardlandscareposiw[.]shop
+LummaC2 LID - G5nXy1--
+
+Payloads:
+
+holder1000x300 (Payk RunPE) - d01e27462252c573f66a14bb03c09dd2
+UpdateSetup-x86.msix - 569d206636b75c33240ba4c1739c04d6
+AmsiBypass - pastebin.pl/view/raw/2cb32d8b
