@@ -1,0 +1,16 @@
+
+C2:
+
+D3F@ck Loader - 194.147.35[.]251
+D3F@ck Loader - 116.202.188[.]155
+Raccoon Stealer - 195.20.16[.]155
+
+Payloads:
+
+D3F@ck Loader (125.exe) - 44b14057ff868e25ad444fac098d89f0
+85.zip - 87cb408a03daa827f9cc10698ba69a90
+.NET Dropper (125.exe) - a56f2d534631400ef294d321f8dbdfea
+Rufus_Setupx64.exe - 5cf2e80ac2a7f7fa24f74966d3ec904f
+CalendlySetupLastVersion.exe - 815b3c88950fd572bb4bfef96d2ca23d
+Raccoon Stealer - be9989c6c218b0e99671a5bde240341e
+
