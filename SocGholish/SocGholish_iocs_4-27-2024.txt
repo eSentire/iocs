@@ -1,0 +1,11 @@
+SocGholish C2:
+
+hxxps://ghost.blueecho88[.]com/XnkKYSVbaQg6WzBTaU0mQy0NbxF8QygRLBxpCTsaYT40ClUHLBZkFTsLeA4sWyZDOwt4DixbMFByW3hDZFtvBy4JbEMj
+hxxps://ghost.blueecho88[.]com/U5WuWyi3zTI3t5RpZKGCeSDhyytxr4wrIfDNMzb2xQQ55vE9IfrALzbn3DQht4J5NufcNCG3lGl/t9x5abfKNz3wxDAl/cw3NeXXPDG30w==
+hxxps://ghost.blueecho88[.]com/gcGKZ/rj6Q7l47BVtvWmRfK17xej+6gG76DmHvuk1QHx46ZF8+OwReumqBo=
+
+170.130.55[.]72
+
+Payloads:
+
+Update.js - 44a0b845b30dcdc26c8017a6714c46e9
