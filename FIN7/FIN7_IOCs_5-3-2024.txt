@@ -1,4 +1,4 @@
-C2s:
+FIN7 C2s:
 
 cdn41.space
 cdn46.space
@@ -20,6 +20,11 @@ cdn38.space
 eprst431.boo
 cdn1124.net
 cdn1701.com
+
+DiceLoader C2:
+
+193.124.24.51:443
+38.135.52.151:273
 
 NetSupport:
 
