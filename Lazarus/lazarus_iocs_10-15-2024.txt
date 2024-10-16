@@ -1,0 +1,28 @@
+Hash: 
+6a104f07ab6c5711b6bc8bf6ff956ab8cd597a388002a966e980c5ec9678b5b0 – p.zip
+
+URLs: 
+hxxp[://]147[.]124[.]214[.]129:1244/pdown
+hxxp[://]95[.]164[.]17[.]24:1224/pdown
+hxxp[://]23[.]106[.]253[.]215:1244/pdown
+hxxp[://]147[.]124[.]214[.]131:1244/pdown
+hxxp[://]23[.]106[.]253[.]194:1244/pdown
+hxxp[://]147[.]124[.]214[.]237:1244/pdown
+hxxp[://]185[.]235[.]241[.]208:1224/pdown
+hxxp[://]172[.]86[.]98[.]240:1224/pdown
+hxxp[://]23[.]106[.]253[.]209:1244/pdown
+hxxp[://]147[.]124[.]212[.]89:1244/pdown
+hxxp[://]67[.]203[.]7[.]171:1244/pdown
+hxxp[://]45[.]61[.]169[.]99:3000/pdown
+hxxp[://]147[.]124[.]212[.]146:1244/pdown
+hxxp[://]167[.]88[.]168[.]152:1224/pdown
+hxxp://23[.]106[.]70[.]154:1244/pdown
+hxxps://23[.]106[.]70[.]154:1244/pdown/
+hxxps://23[.]106[.]253[.]221:1244/pdown/
+hxxp://67[.]203[.]7[.]163:1244/pdown/
+hxxp://23[.]106[.]253[.]242:1244/pdown
+
+hxxp[://]69[.]43[.]130[.]153:3000/
+hxxp[://]69[.]43[.]130[.]141:3000/
+
+hxxps[://]codeload[.]github[.]com/cometec/nft_marketplace/zip/refs/heads/main?token=AACC4Y5BXN5GCUM6WWWKWQTG5WXK4 – Malicious NFT Project
