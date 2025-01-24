@@ -16,6 +16,7 @@ Domain:
 rosettahome[.]top - BOINC C2
 xaides[.]com - Kongtuke
 usbkits[.]com - Kongtuke
+hkinuxb3bz[.]top - Kongtuke
 mubuzb3vvv[.]top - MintsLoader C2
 nfuvueibzi4[.]top - MintsLoader C2
 mnudybh4unh[.]top - MintsLoader C2
@@ -34,7 +35,6 @@ ngub8zb38ib[.]top - MintsLoader C2
 gkn33hxueub[.]top - MintsLoader C2
 mnvuz3gvy3[.]top - MintsLoader C2
 jhubzgv3[.]top - MintsLoader C2
-hkinuxb3bz[.]top - MintsLoader C2
 adkfnnbmakcgael[.]top - MintsLoader C2 (DGA)
 hhgiflifcbmdjmh[.]top - MintsLoader C2 (DGA)
 blclmjamegjaffd[.]top - MintsLoader C2 (DGA)
