@@ -6,7 +6,7 @@ File:
 Domain:
 
 deepseek.exploreio[.]net - Fake DeepSeek domain
-manyanshe[.]com - Poseidon Stealer DMG download domain
+manyanshe[.]com - AMOS Stealer DMG download domain
 browser-storage[.]com - ClickFix style shell script
 calendly-storage[.]com - ClickFix style shell script
 jobstreet-storage[.]com - ClickFix style shell script
@@ -16,7 +16,7 @@ deepseek-storage[.]com - ClickFix style shell script
 URL:
 
 https://deepseek.exploreio[.]net - Fake DeepSeek page
-https://manyanshe[.]com/macdownloads/script_67a654802ba053.47547911.php - Download URL for Poseidon Stealer DMG
+https://manyanshe[.]com/macdownloads/script_67a654802ba053.47547911.php - Download URL for AMOS Stealer DMG
 
 Command Line:
 
