@@ -1,0 +1,107 @@
+IP:
+
+164[.]90[.]154[.]221 - Phishing kit associated external IP (Digital Ocean)
+164[.]90[.]152[.]138 - Phishing kit associated external IP (Digital Ocean)
+152[.]42[.]241[.]245 - Phishing kit associated external IP (Digital Ocean)
+24[.]144[.]108[.]154 - Phishing kit associated external IP (Digital Ocean)
+181[.]215[.]176[.]73 - Phishing kit associated external IP (Private Internet Access VPN)
+89[.]249[.]74[.]170 - Phishing kit associated external IP (Private Internet Access VPN)
+45[.]8[.]19[.]123 - Phishing kit associated external IP (Bandito Networks, Inc)
+216[.]73[.]160[.]250 - Phishing kit associated external IP (Bandito Networks, Inc)
+216[.]73[.]160[.]108 - Phishing kit associated external IP (Bandito Networks, Inc)
+45[.]8[.]19[.]119 - Phishing kit associated external IP (Bandito Networks, Inc)
+91[.]193[.]232[.]128 - Phishing kit associated external IP (Clouvider Limited)
+91[.]193[.]232[.]84 - Phishing kit associated external IP (Clouvider Limited)
+91[.]193[.]232[.]5 - Phishing kit associated external IP (Clouvider Limited)
+84[.]239[.]47[.]141 - Phishing kit associated external IP (Datacamp Limited)
+91[.]193[.]232[.]125 - Phishing kit associated external IP (Clouvider Limited)
+193[.]56[.]116[.]251 - Phishing kit associated external IP (Clouvider Limited)
+23[.]163[.]0[.]30 - Phishing kit associated external IP (Gwy It Pty Ltd)
+98[.]83[.]220[.]177 - Phishing kit associated external IP (Amazon AWS)
+52[.]53[.]231[.]42 - Phishing kit associated external IP (Amazon AWS)
+198[.]144[.]189[.]57 - Phishing kit associated external IP (ColoCrossing)
+2a0b:7140:6:1:5054:ff:fec2:7579 - Phishing kit associated external IP (servinga GmbH)
+2001:ac8:31:254:5835:61ba:6c91:5c29 - Phishing kit associated external IP (M247 Europe SRL)
+
+Domain:
+
+enhancedz[.]org
+megamountains[.]com
+usiness[.]online
+topseotraineez[.]com
+aviencez[.]com
+beehivedroned[.]org
+imblager[.]ru
+rhenus[.]team
+ruesswe[.]org
+hazemaesauction[.]org
+bemadshop[.]net
+luminexcorps[.]com
+newsportcomm[.]com
+lentacfab[.]com
+gtcdistribution[.]com
+hmdepartments[.]com
+ip-ptr[.]tech
+aliccom[.]com
+officecentrumsynot[.]com
+allorganichome[.]com
+vectorizier[.]com
+dillanddlil[.]com
+jirnhogg-cad[.]org
+renaissancemantenance[.]com
+aaeipsa[.]com
+signregyinc[.]com
+ovalwox[.]com
+stationshouston[.]com
+ct0s[.]cc
+panasiancorps[.]net
+adasmckinleys[.]org
+offv2upgrade-associates[.]online
+rautitan[.]ru
+sharingviewtrakr[.]world
+theparadeofhomes[.]com
+marcianz[.]com
+attlink[.]net
+puxa-sporting[.]com
+mytraiscobremen[.]com
+davidgeekideas[.]com
+biglpond[.]com
+toitoiiusa[.]com
+buydentalbright[.]com
+narohealthvalue[.]com
+chadochki[.]ru
+jlmoorenic[.]com
+jeffcofirez[.]com
+enclaveon[.]com
+dzokoreanbbq[.]com
+bobssrevices[.]com
+hivedispenser[.]com
+flexsjets[.]com
+nashalliancez[.]com
+therenoviz[.]org
+383520[.]xyz
+pressureworth[.]org
+andruszz[.]com
+harpurt[.]com
+rnail365[.]it[.]com
+ganshuai[.]es
+gehwha[.]com
+dynalynk[.]org
+financialdocc[.]com
+pronkoenterprise[.]com
+bemadshop[.]org
+krholdingcorp[.]com
+trmrooflng[.]com
+ptfjanesvilles[.]org
+478237832mains[.]com
+surajufirm[.]org
+pinewoodgolfmnz[.]com
+spsursfaces[.]com
+hesctonplum[.]org
+kw0klaw[.]com
+excelfarmsincs[.]com
+acctingreceivables[.]com
+shuabins[.]com
+sss[.]hs[.]vc
+kemt[.]bike
+bastadeinflacion[.]com
