@@ -1,6 +1,7 @@
 IP:
 
-192.155.106[.]11
+192.155.106[.]11 - Exfil server
+195.123.243[.]81 - Threat Actor VPN (VPN JANTIT) used in scanning/exploiting CVE-2024-55591
 
 Domain:
 
