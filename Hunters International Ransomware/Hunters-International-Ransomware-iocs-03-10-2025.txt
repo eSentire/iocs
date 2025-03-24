@@ -3,10 +3,6 @@ IP:
 192.155.106[.]11 - Exfil server
 195.123.243[.]81 - Threat Actor VPN (VPN JANTIT) used in scanning/exploiting CVE-2024-55591
 
-Domain:
-
-winscp[.]net
-
 File:
 
 7ee1fd53457c9a73308ae98c01722aa2b9170ef1 - encrypter_windows_x64.dll (Hunters International Ransomware)
