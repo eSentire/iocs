@@ -13,3 +13,22 @@ URL:
 
 https://exclusive.nobogoods[.]com/updateStatus - SocGholish C2
 
+IP:
+
+92.118.112[.]208 - Ransomhub C2
+173.44.141[.]226 - Ransomhub C2
+45.82.85[.]50 - Ransomhub C2
+92.118.112[.]143 - Ransomhub C2
+38.180.195[.]187 - Ransomhub C2
+185.219.220[.]175 - Ransomhub C2
+193.203.49[.]90 - Ransomhub C2
+88.119.175[.]65 - Ransomhub C2
+104.238.61[.]144 - Ransomhub C2
+38.180.81[.]153 - Ransomhub C2
+185.33.86[.]15 - Ransomhub C2
+185.174.101[.]69 - Ransomhub C2
+162.252.173[.]12 - Ransomhub C2
+38.146.28[.]93 - Ransomhub C2
+185.174.101[.]240 - Ransomhub C2
+172.210.82[.]245 - Ransomhub C2
+
