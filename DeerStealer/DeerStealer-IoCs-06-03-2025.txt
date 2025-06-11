@@ -1,0 +1,33 @@
+Domain:
+
+upcdnnodes[.]cfd - DeerStealer C2
+sciecdn[.]cfd - DeerStealer C2
+cloused-flow.site - DeerStealer C2
+debianlist[.]cfd - DeerStealer C2
+soft-metal-software[.]cfd - DeerStealer C2
+quitarlosi[.]cfd - DeerStealer C2
+cdnnode-01[.]cfd - DeerStealer C2
+sonorous-horizon-cfd[.]cfd - DeerStealer C2
+servicesmesh[.]pro - DeerStealer C2
+ncloud-servers[.]shop - DeerStealer C2
+brokpolok[.]shop - DeerStealer C2
+d-nodes[.]shop - DeerStealer C2
+uplink-mirrors[.]shop - DeerStealer C2
+
+URL:
+
+hxxps://luckyseaworld[.]com/now.txt - Download URL for now.msi
+hxxps://luckyseaworld[.]com/nownow.txt - Download URL for nownow.msi
+hxxps://www.aggiornamentoaggiornamento[.]com/big.msi - Download URL for big.msi
+
+Hash:
+
+3a03afc1313854359603522e0792f6a8f9153519eac645cf5811824d936cfbc7 - now.msi (Dropper -> HijackLoader -> DeerStealer)
+674476acafaa975bb80ee9ea7ae24e0bbedb1d1d5c3b3871f718b857b066579d - nownow.msi (Dropper -> HijackLoader -> DeerStealer)
+02d0f858069426ee5bbf04d5d85ff053d8f86867f4fbedb5ef70f78cb2acf086 - QTCIVIQE.msi (Dropper -> HijackLoader -> DeerStealer)
+4eae5c64da09969299fd3c1fe05d91f67a425a1e1431b926fda289e4b94fd550 - big.msi (Dropper -> HijackLoader -> DeerStealer)
+163cfcb8a2c2e14cb77e0d735b87f56ae653d58ad5c69c536396f2936afd1c72 - fg3f3e1.msi (Dropper -> HijackLoader -> DeerStealer)
+24475ae7781189075f64a2de1a7d1fd69b341b7adee67f0bd2286cfbf1f0b7f9 - Unpacked DeerStealer
+eb17f8296482b0c096a2249844a62988b6abdd8ffe8cbbe3398f422968d46875 - Unpacked DeerStealer
+e34d753f2b992cf74c1b9db61bad4d6c6089ab8ef9fb942c865290b2dd64b4ad - Unpacked DeerStealer
+9163f9237ad869a74715f9b126f7c577bd1f12afb8eae37ba07c11f00a39fa3e - Unpacked DeerStealer
