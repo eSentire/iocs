@@ -1,0 +1,114 @@
+IP Address: 
+196.251.88[.]111:56002
+176.65.144[.]123:56002
+
+
+Domain:
+fax-greenry[.]myhome-server[.]de
+
+
+Hashes:
+69a40bd2f667845ab95ad8438dae390f2e8b9680f4d30cb20e920c45cda565f9 - CriticalUpdater0549303.dll OR oledlg.dll
+f3d98823fb6cdc226414bedc49b94e86060fcc511cc50867d63f7c989fe54aed - Kolaidqv.exe
+1ac0767e5a22839ae581ea31fcfcd693f1d35092a33576cb5269a2f7b415d964 - Nvzfpkp.dll
+
+
+Persistence:
+Cortex XDR Versus - rundll32.exe C:\Users\<UserName>\Documents\CriticalUpdater0549303.dll,EntryPoint
+
+
+Mutex:
+6ad742cc0dd3
+
+
+Certificate:
+Parsed X.509 Certificate, 
+Version:          3 (0x02) 
+Serial number:    1071913861427099792278749970483054303 (0x00ce716f065359815a313d6a140b06df) 
+Algorithm ID:     SHA512withRSA 
+Validity 
+  Not Before:     31/03/2025 17:39:19 (dd-mm-yyyy hh:mm:ss) (250331173919Z) 
+  Not After:      31/12/9999 23:59:59 (dd-mm-yyyy hh:mm:ss) (99991231235959Z) 
+Issuer 
+  CN = Wggrtlfl 
+Subject 
+  CN = Wggrtlfl 
+Fingerprints 
+  MD5:            3de14ad7e90355527282d3da369815a2 
+  SHA1:           9add49745b6fb5002aa89f79ef549f3bfaa8203d
+  SHA256:         cbbda2edde38162e49f7578512c015640392342a26ea0e5cd90705bb66a7ba81 
+Public Key 
+  Algorithm:      RSA 
+  Length:         4096 bits 
+  Modulus:        97:78:2c:23:6e:74:05:d3:67:80:0c:eb:30:35:ac:8a: 
+                  22:e3:d1:5b:50:80:0e:89:01:45:60:38:ab:0b:3d:b7: 
+                  0b:08:bc:71:8f:58:20:f2:c2:3f:c7:fe:4d:15:e2:ec: 
+                  8e:48:be:f7:ff:88:c3:e6:76:0d:ff:5b:9c:f6:6f:31: 
+                  3f:8d:dc:be:90:3b:30:44:1d:c9:d6:10:5f:85:cc:b3: 
+                  04:31:87:59:63:ab:8e:6e:ae:c0:d8:d3:25:5b:41:74: 
+                  a5:36:98:be:2d:c1:00:26:4a:05:95:b9:42:89:83:ef: 
+                  a7:24:5b:d0:73:16:f1:31:5e:4b:1a:e7:ce:c9:44:9c: 
+                  ae:28:89:fb:6a:6c:6a:e8:ec:7f:36:7e:31:c6:b4:13: 
+                  d4:dc:8d:2b:1c:32:4c:9e:33:a8:38:7c:95:d9:06:d4: 
+                  92:4a:49:fb:12:c1:ca:ac:0a:c3:97:84:98:09:13:1c: 
+                  42:55:c2:cf:68:77:0f:f3:ca:c2:9e:d1:2e:a6:88:29: 
+                  75:da:5e:27:67:d8:1b:28:d1:2e:aa:3c:84:e1:50:75: 
+                  c5:3b:d3:5b:88:1f:01:dc:8b:1a:ac:05:d4:e8:33:8c: 
+                  d3:b8:dc:9e:f9:d2:b3:8e:bd:9c:55:75:a5:2b:1f:bd: 
+                  57:0a:79:99:ca:35:14:87:98:71:02:55:ea:0a:34:4f: 
+                  67:07:78:26:67:3e:85:a8:cc:34:4e:c3:3b:78:43:dc: 
+                  36:93:e9:e2:63:73:df:de:10:94:b3:20:c2:d3:e2:e6: 
+                  b6:fc:06:a5:d4:8c:72:cc:0c:86:92:27:d3:f8:64:1c: 
+                  54:9a:d8:48:6f:1e:e1:e5:2c:d3:10:44:70:ef:30:3d: 
+                  39:44:86:4e:28:c7:80:2e:f0:06:db:d5:2e:73:16:8a: 
+                  a1:f4:85:87:ff:62:6a:6b:d9:d5:0e:6b:3c:f3:87:62: 
+                  a8:db:14:df:d8:c1:8b:42:36:d6:37:34:fb:41:37:45: 
+                  33:96:9d:fd:ae:e4:9f:13:15:24:34:87:fd:53:8b:60: 
+                  56:fe:34:f8:02:39:80:94:87:bb:8c:ee:d6:88:41:c3: 
+                  96:71:d0:a6:af:bd:04:2a:c1:9c:32:05:04:e6:ea:2a: 
+                  93:fa:ed:70:46:2c:68:02:3e:bb:4b:f4:fc:db:18:d4: 
+                  39:9c:cd:a0:07:0f:53:53:0d:28:d2:79:da:bc:2b:b8: 
+                  b1:53:a6:87:63:45:49:86:4a:79:ef:3a:99:c7:79:f6: 
+                  fe:ec:71:3d:23:88:36:f9:c8:ce:b1:3e:e1:46:5f:1f: 
+                  bc:06:5b:c2:26:44:8c:8a:ea:1e:28:b7:60:75:ea:63: 
+                  96:58:89:95:29:e8:cf:5c:67:cc:a9:f3:bc:47:b3:45 
+  Exponent:       65537 (0x10001) 
+Certificate Signature 
+  Algorithm:      SHA512withRSA
+  Signature:      2a:84:51:a2:13:a6:bc:16:c5:07:49:67:3c:62:0c:f1: 
+                  84:4f:d4:32:50:69:4a:27:ab:d5:2a:d3:da:88:ee:86: 
+                  84:b7:15:06:42:86:12:ca:66:17:f3:03:93:59:cd:a6: 
+                  b9:6e:ea:15:34:ce:bb:ea:cb:c5:b6:36:b3:f5:6b:d7: 
+                  ba:f8:5e:8f:84:28:de:70:26:be:5a:e2:9b:0e:28:e4: 
+                  8d:5f:c1:a8:2e:1e:c2:91:c0:17:1b:55:b8:9d:94:cc: 
+                  70:e0:db:15:a1:42:7c:c3:2f:2f:c7:f8:21:7e:69:6c: 
+                  dc:b3:c6:2d:f6:29:16:13:07:a7:90:c4:2b:73:87:ad: 
+                  5c:49:fc:ad:e7:e0:01:d8:3c:69:09:0b:bf:73:2a:63: 
+                  dc:b2:57:2f:33:f5:bc:e9:a8:9c:b0:fb:22:e8:d3:c1: 
+                  c3:f4:38:e7:7d:5c:7c:8d:b2:9b:eb:2c:88:9b:47:7a: 
+                  ff:36:7e:53:4c:c5:c4:ed:dd:10:d4:f5:23:80:fd:34: 
+                  49:db:da:c5:3c:2a:14:0e:aa:b6:18:66:42:bd:4c:da: 
+                  ab:45:f1:00:d1:12:1d:7d:b1:9b:28:53:8f:78:83:4b: 
+                  c1:8a:92:3a:9c:fc:12:2e:f5:50:8f:47:b2:f2:ec:57: 
+                  fd:9c:b2:55:93:e8:29:8d:16:30:15:da:de:3a:c0:6e: 
+                  25:ea:02:5b:a6:53:bb:82:43:60:60:1f:bd:4d:35:28: 
+                  58:9b:40:9d:e5:80:f4:ab:bd:b7:a8:c0:85:e6:86:1b: 
+                  ad:15:2f:24:b6:d2:80:6c:09:99:c2:0a:ff:2b:0a:60: 
+                  22:52:be:0d:35:b4:ca:60:0a:a7:d2:49:b5:c4:c4:af: 
+                  f3:54:1a:93:f0:09:64:26:7a:14:c2:13:83:a9:46:8c: 
+                  47:f0:9d:00:37:88:94:ea:1e:8a:eb:08:75:38:50:f8: 
+                  ae:eb:15:89:70:cf:d7:eb:a2:ef:35:26:c1:01:ba:92: 
+                  55:06:3f:57:d0:a0:18:8a:f0:0e:af:7d:e1:a3:0b:c7: 
+                  72:6c:e3:2a:1d:66:f2:7a:24:7b:2a:76:21:20:1b:8c: 
+                  bf:97:27:22:db:41:b9:b1:f4:49:ce:77:51:86:cc:12: 
+                  a8:cb:e2:1e:6d:80:77:ed:dd:7b:79:9c:35:ab:b8:01: 
+                  30:4d:b6:69:e0:ed:7d:b0:b3:79:6b:27:54:5e:67:39: 
+                  95:69:b0:17:8d:70:61:66:86:ef:ac:ac:d5:8c:e6:de: 
+                  82:05:7a:1e:15:c0:e4:07:4c:8a:5c:6c:c1:7a:05:e7: 
+                  eb:3e:e1:33:a5:af:db:ec:95:f0:9e:b7:42:f8:47:cb: 
+                  ff:94:26:23:ad:a0:df:ed:c5:d9:6b:f5:52:a5:4f:cb 
+Extensions 
+  subjectKeyIdentifier : 
+    0aa68f69f3a2c9d4fa54c3978e9b8eb66daef88b 
+  basicConstraints CRITICAL: 
+    cA=true 
