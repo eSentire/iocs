@@ -14,7 +14,9 @@ f3d98823fb6cdc226414bedc49b94e86060fcc511cc50867d63f7c989fe54aed - Kolaidqv.exe
 
 
 Persistence:
-Cortex XDR Versus - rundll32.exe C:\Users\<UserName>\Documents\CriticalUpdater0549303.dll,EntryPoint
+Registry Run Key
+Name - Cortex XDR Versus 
+Data - rundll32.exe C:\Users\<UserName>\Documents\CriticalUpdater0549303.dll,EntryPoint
 
 
 Mutex:
