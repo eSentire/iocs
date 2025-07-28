@@ -3,12 +3,14 @@ IP:
 45.88.91[.]56
 176.65.144[.]220
 155.94.155[.]220
+185.196.8[.]118
 
 Domain:
 
 cyberstealer[.]live
 innocents[.]ru
 paxrobot[.]digital
+wbarenux[.]pro
 
 File:
 

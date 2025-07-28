@@ -1,0 +1,18 @@
+
+IP:
+
+45.56.162.61 - SocGholish C2
+
+Domain:
+
+app.novationseo.com - SocGholish C2
+
+URL:
+
+https://app.novationseo.com/checkAjax - SocGholish C2
+
+File:
+
+D8987845C526B911A02BF0372D35E09400F384DA98B6628F87FDCF00760CA230 - SocGholish dropper (Updater.js)
+bcecaaaedc6c42671c6f7080425daff1e7fbf9ca4df85c9052385dcc4c36cb64 - Packed Chrome/Edge Python-based Stealer
+6672cbbecd7c79fd2fb6c35ee870eddff784aa1a422910c3e07c8d08634b4e89 - Unpacked Chrome/Edge Python-based Stealer

