@@ -7,7 +7,7 @@ Use case: Use this script to verify ransomware using Curve-25519 + AES-128-CTR,
 
              Note: The ransomware may use a specific chunking size, in that case, this script will need to be modified.
 
-SHA256 of Sinobi ransomware payload: 046eff0dd5ca9d98e784890c44220f9fdd6eff884c029e7dc656e5819eed800c
+SHA256 of Sinobi ransomware payload: 1b2a1e41a7f65b8d9008aa631f113cef36577e912c13f223ba8834bbefa4bd14
 
 """
 
@@ -24,7 +24,7 @@ import base64
 PLAINTEXT_FILE_PATH = "REPLACE"
 
 # Set to the attacker's Curve-25519 public key, stored as base64 string in Sinobi ransomware
-ATTACKER_CURVE_25519_PUBLIC_KEY_BYTES = base64.b64decode("hWdtfE7rhPEJRkxO042k5hZ819xexsZYKuUPMjJOlGE=")
+ATTACKER_CURVE_25519_PUBLIC_KEY_BYTES = base64.b64decode("BFthuj+0R46aVsiXII9U83iOpHbO0LE7ZQMnFRExDZo=")
 
 # Replace with private key generated in the ransomware
 # For example, CryptGenRandom is used in Sinobi to generate the 32 byte key
