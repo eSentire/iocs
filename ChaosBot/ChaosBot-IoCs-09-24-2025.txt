@@ -1,0 +1,99 @@
+File:
+
+a118b24f3b299c7f94f8e2833e98afd19d638b5aa4008e9de1e9667fe9b2b8c6 - msedge_elf.dll (ChaosBot)
+04ac59051a7d9f7a6e1b43b82bd02b609a90674eb42a91a26caa1382912a5f9f - dpapi.dll (ChaosBot)
+4d5f3690cdff840ceba70c1b1630ceadd0d3dcf23c8e0add0257cba2f166f5e6 - UltraViewer.exe (ChaosBot new variant)
+6445e4e9789a3413c19a6b80c1419f55b1144a83f38a8beed033c2850c470820 - vncviewer.exe (ChaosBot variant that uses serenity for Discord API interaction)
+2b2bdd167a27f642d5826afe3bcc4e293dffbfee7ac58d3195dfa2b9b9fac41e - node.exe (fast reverse proxy)
+7e074d667bd4135237c2d0d0789ba8e3d777dbecc964e5090b5d2347fbcc8d38 - code.exe (Visual Studio Code)
+6445e4e9789a3413c19a6b80c1419f55b1144a83f38a8beed033c2850c470820 - ChaosBot (new variant)
+cdc73afb92617d9e2e0b6f2f22587f5f57316250a25b7bb8477a80628703e7b7 - ChaosBot (new variant)
+5a415f0b86c296e785b173a4e1525571b9fdd927f46f58c337b9de25d8bfebff - ChaosBot (new variant)
+f4f9e105a27bcfbaef2449b340dd9ff6f28d1ecb42a74c8f4d1b7571355da3eb - ChaosBot (new variant)
+32fbc9ee81f0538e8b2d1427f8a7bb2c20e698a0a9004964a39fd229f4245615 - ChaosBot (new variant)
+b721ae3c71fb898a0876d6f2fde67628957d067110c0e0de35d74064a4d7f150 - ChaosBot (new variant)
+cc7cd6f43f862528fc1ec72cbb17fe040eec61f1e84118c73ec586fd634c538d - ChaosBot dropper
+6c9a316e7cf8f12c72c4bd2a5d5333a80f68817a058eb0edbc21a1a89e58d6f5 - ChaosBot dropper
+585ee0f329d7feb94d9b329b5d1ce5752fb07146e93fe518018dbb94b82032ec - ChaosBot dropper
+5c516dd8918aa0fb96d735095b2a42968cce67541ce483ddc238503b318fc1dd - ChaosBot dropper
+6903c1d509c843a53e03bb04d09b35d144bce527d7e6361f241cc00161c7c837 - ChaosBot dropper
+75c82147287041df1fa3628b54ea06e2eb5b3aed6b9250b02945a29bac5f9070 - ChaosBot dropper
+a8897a90266df6aebe6a1b8ab191fecad49ecdfb2889230c21cc8eeba115d23e - ChaosBot dropper
+0f873d999bcc3cafe9630e68a36c4e754b89297afb73ffd1189b8e9739b203b7 - ChaosBot dropper
+8c00fc8110bb61d925cddedf355f0bf54a924bed7c92324b12797c99f172dd08 - ChaosBot dropper
+09c43ed814e1ffa520f1e84511fb11df3ac7e42be799fef5b29c7e3f7e6170fb - ChaosBot dropper
+14f4af20ebc25de51b91017510922a05ab4b82f04271ede2298a64e4aebec65d - ChaosBot dropper
+c8e50e9319753a9200e86387a8c05b2d2a4a795b5019496ffb5d9f38749ec629 - ChaosBot dropper
+cbea673af6bb1e1d33b27b763513e92053e4f3ae34874a84e0fc2afd351fd2b4 - ChaosBot dropper
+c98d5618e361797ced9f06f6febfc2c25c2d923105a9ba84465909db7b72d0e3 - ChaosBot dropper
+c0a13c772b43458c1cd9f19806a93805c7d6c65dc06bc3c36d634093138ae046 - ChaosBot dropper
+612210b976d365bf251ff9b0660f346ecb1b913fb2a7d129e643e3f739d5b4aa - ChaosBot dropper
+b6e215982cea2c9e2759dcde1f41c6b78fe424ecbb4930f4eafe6c98bebf1920 - ChaosBot dropper
+5dd508292f41f44dea982eeea720466552bf44e4c7b9d446a61a051feb304223 - ChaosBot dropper
+b774fd6aebbc77f02c8feceee2e70ceedf74061b5dcfc7061732dcd77a9122a2 - ChaosBot dropper
+08c14bc1ddc1742d1c170ef44305651a97c69d57f6b9910250caa71dc4b4cb82 - ChaosBot dropper
+ed220bab22cee1752d432e15c8d086fcb78393d3ef00532c435b45a160d9aef4 - ChaosBot dropper
+e6faa8dfcac72b506105d43ca037d599fbe4df531730553689492f153677537f - ChaosBot dropper
+20762ce45b7d4f2e59f8adf1fd91b3bc3e31c922c8ae04a92aed8529e3d15926 - ChaosBot dropper
+6c118470b018a275ffad889bab5db45902ef8d0a0da17da6b09f5134e13a5372 - ChaosBot dropper
+
+URL:
+
+hxxps://transferai-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/app/index/code.exe - Download URL for Visual Studio Code (code.exe)
+hxxps://transferai-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/app/index/edge/msedge_elf.dll - Download URL for ChaosBot
+hxxps://transferai-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/app/index/edge/identity_helper.exe - Download URL for Microsoft Edge component used for side loading msedge_elf.dll (ChaosBot)
+hxxps://cdn.discordapp[.]com/attachments/1418576301236686928/1419510506380722229/node.exe?ex=68d205ad&is=68d0b42d&hm=12fc1ef2525834019505a2830ae2c200d0a2f37c34e9a141ee2488751c42a377& - Download URL for frp (node.exe)
+hxxps://cdn.discordapp[.]com/attachments/1418576301236686928/1419510525158621295/node?ex=68d205b2&is=68d0b432&hm=f8f4d85c862efec8b1b9f9a519da1f3472070fd3a171aca4936a9d037965374b& - Download URL for frp config (node.ini)
+hxxps://cdn.discordapp[.]com/attachments/1418576301236686928/1419525117595095080/UltraViewer.exe?ex=68d21349&is=68d0c1c9&hm=0b8afb1e51f7aa78cb5d7de7c42d5834bae9cf1ed7beb4f4e3473c22bb4f6eac& - Download URL for ChaosBot variant (UltraViewer.exe)
+hxxps://erspce-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/fileserver/VPNupdate.zip - Download URL for ChaosBot dropper shortcut file
+hxxps://erspce-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/fileserver/VPNupdate.pdf - Download URL of bogus PDF
+hxxps://erspce-all.s3.dualstack.ap-southeast-1.amazonaws[.]com/fileserver/vncviewer.zip - Download URL for ChaosBot (new variant)
+
+Command Line:
+
+C:\Windows\System32\cmd.exe /C C:\Users\Public\Libraries\identity_helper.exe > C:\Windows\Temp\<GUID> 2>&1
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; quser"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\Documents\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; c:\users\public\Documents\identity_helper.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\muisc\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; del c:\users\public\muisc\UltraViewer.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; c:\users\public\muisc\UltraViewer.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; ipconfig"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; query user"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; ipconfig /all"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\music"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\ysers\public\music"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; systeminfo"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\music"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; tasklist /svc | findstr rotatelogs"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; tasklist | findstr logs"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; (echo | c:\users\public\music\code.exe tunnel service install > c:\users\public\music\logs)"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; tasklist /svc | findstr code"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; del c:\users\public\music\logs"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; del c:\users\public\music\log"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; (echo | c:\users\public\music\code.exe tunnel service install > c:\users\public\music\log)"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; tasklist /svc | findstr node"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; (echo | C:\Users\Public\Music\code.exe tunnel service install > C:\Users\Public\Music\log)"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; type c:\users\public\music\log"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; type C:\Users\Public\Music\log"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; tasklist /svc"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; c:\users\public\music\node.exe -c c:\users\public\music\node.ini"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; systeminfo"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\Documents\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; c:\users\public\Documents\identity_helper.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users\public\muisc\"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; del c:\users\public\muisc\UltraViewer.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; c:\users\public\muisc\UltraViewer.exe"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; ipconfig"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; query user"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; ipconfig /all"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\ysers\public\music"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; hostname"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; dir c:\users"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; quser"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; whoami"
+powershell -Command "$OutputEncoding = [System.Text.Encoding]::UTF8; Get-CimInstance Win32_ComputerSystem | Select-Object -ExpandProperty UserName"
