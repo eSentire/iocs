@@ -1,0 +1,102 @@
+File:
+
+31804c48f9294c9fa7c165c89e487bfbebeda6daf3244ad30b93122bf933c79c - NetSupport client version 14.10
+69ec5513e1edc5e450b4b0fbe782e25fadb89c787383da9ceca415301d3e8fb4 - NetSupport client version 14.10
+06a0a243811e9c4738a9d413597659ca8d07b00f640b74adc9cb351c179b3268 - NetSupport client version 14.10
+312a0e4db34a40cb95ba1fac8bf87deb45d0c5f048d38ac65eb060273b07df67 - NetSupport client version 14.10
+afc45cc0df7f7e481bff45c6f62a6418b6ae4c8b474ec36113e05ab7ca7e2743 - NetSupport client version 11.30
+860393e31788499f8774be83c65bcf29658cc77bf96ee2f4c86b065aedbf77de - NetSupport client version 12.50
+168f1b974b31df0889e6dbe75f0fe8486cf932d72f0d6ad8348c97a2e537a738 - NetSupport client version 12.44
+18df68d1581c11130c139fa52abb74dfd098a9af698a250645d6a4a65efcbf2d - NetSupport client version 12.00
+973836529b57815903444dd5d4b764e8730986b1bd87179552f249062ee26128 - NetSupport client version 11.10
+2e06ca68558d2f40d3fa262be8531f9621de3889d9cb2c3195be734a782fd4d2 - PowerShell RunMRU deleting loader
+37d1d033e19cf9dc7313846d9d4026b03d2f822efccd963e5697e9633a4df0d0 - PowerShell RunMRU deleting loader
+6b4219acaa29bb1b028a57c291dec2505d48ff75dbc308bfdb5b995cb255fefb - PowerShell RunMRU deleting loader
+a823031ba57d0e5f7ef15d63fe93a05ed00eadfd19afc7d2fed60f20e651a8bb - PowerShell JSON based loader
+5c2aad823a0b3757889967c98acd6515eee5aaf20164b082cdf817598d5e7136 - PowerShell JSON based loader
+fda64df771aa9afc4c9ac7b3aaaf3a2020851acc3b51d6adf8cb7a32b766c9a4 - PowerShell JSON based loader
+2799454ff46c3eb1b94278c7f5de53621665d8953dd478ecab939fc06a23343e - PowerShell JSON based loader
+fd54baae445d9b79b5af9958440203ce99de2302228dc135f7f0e1ac2efd4324 - PowerShell JSON based loader
+ab9689e59785fa63570b9e3750c39aa778f9e9cd671691f198130eadf8f6602d - PowerShell JSON based loader
+d7b46caebba2157fa58f06d9b6571939e4d51882dc8000c8c264a585b5eedf98 - PowerShell JSON based loader
+de5daba9d7b428addd0a4981a10562e104098443d21ad2ddc224a03b2672be35 - PowerShell JSON based loader
+a417f700fd5c8d36a13b2edec341827f6f05bc24f045429225a08a112f140f68 - PowerShell JSON based loader
+d5b13eb9e8afb79b4d7830caf3ac746637e5bda1752962e5bd0aed3352cc4a42 - recordproduce.msi (MSI based loader)
+959e229a9308aff3104e46db178a7d8e28f5083c24cdedb41f760afb1a38e70f - PowerShell Zip based loader
+03401e4637259a56561ad3f18cc76933345f6a3c8d64dc44fc6751052471b551 - Powershell Zip based loader
+
+Domain:
+cromvix.com - NetSupport C2
+jelaromo.com - NetSupport C2
+chiklx.com - NetSupport C2
+benafaciario.com - NetSupport C2
+utahlvs.com - NetSupport C2
+olbanha.com - NetSupport C2
+frontiersecu.com - NetSupport C2
+lastmychancetoss.com - NetSupport C2
+deepholeintheworld.com - NetSupport C2
+westford-systems.icu - NetSupport C2
+bylistening.com - NetSupport C2
+ejays.com - NetSupport C2
+lordphoenix.net - NetSupport C2
+mawp.us - NetSupport dropper domain
+nicewk.com - NetSupport dropper domain
+curemile.com - NetSupport dropper domain
+camplively.com - NetSupport dropper domain
+vietnam24hvoyage.com - NetSupport dropper domain
+exemplar-industry.com - NetSupport dropper domain
+caribemove.com - NetSupport dropper domain
+oljaeinfalt.com - NetSupport dropper domain
+michellegraci.com - NetSupport dropper domain
+eddereklam.com - NetSupport dropper domain
+care4hygiene.com - NetSupport dropper domain
+pennylamont.com - NetSupport dropper domain
+cuoreincomune.com - SmartApeSG NetSupport dropper domain
+2beinflow.com - SmartApeSG NetSupport dropper domain
+surethinks.com - SmartApeSG NetSupport dropper domain
+gcsglaw.com - SmartApeSG NetSupport dropper domain
+cuenten.com - SmartApeSG NetSupport dropper domain
+regopramide.top - SmartApeSG NetSupport dropper domain
+territoirespaysagistes.com - SmartApeSG NetSupport dropper domain
+yourcialsupply.top - SmartApeSG NetSupport dropper domain
+uncustomary.org - SmartApeSG NetSupport dropper domain
+ayzyw.top - SmartApeSG NetSupport dropper domain
+haidao10.top - SmartApeSG NetSupport dropper domain
+wavob.top - SmartApeSG NetSupport dropper domain
+todocarritos.top - SmartApeSG NetSupport dropper domain
+amxdh1.icu - SmartApeSG NetSupport dropper domain
+jiezishijie.top - SmartApeSG NetSupport dropper domain
+freaner.com - NetSupport dropper domain
+fivepathways.com - NetSupport dropper domain
+kamagrafr.icu - SmartApeSG NetSupport dropper domain
+poormet.com - NetSupport dropper domain
+
+IP:
+
+91.224.92.11 - NetSupport C2
+62.164.177.48 - NetSupport C2 
+85.208.84.35 - NetSupport C2
+109.107.175.17 - NetSupport C2
+85.208.84.220 - NetSupport C2
+194.0.234.17 - NetSupport C2
+193.143.1.216 - NetSupport C2
+185.163.45.130 - NetSupport C2
+185.39.19.233 - NetSupport C2
+141.98.11.175 - NetSupport C2
+38.146.28.242 - NetSupport C2
+185.163.45.30 - NetSupport C2
+185.163.45.41 - NetSupport C2
+45.142.193.119 - NetSupport C2
+94.158.245.111 - NetSupport C2
+94.158.245.174 - NetSupport C2
+94.158.245.135 - NetSupport C2
+38.132.101.38 - NetSupport C2
+23.227.198.208 - NetSupport C2
+94.158.245.13 - NetSupport C2
+94.158.245.56 - NetSupport C2
+176.65.140.160 - NetSupport C2
+94.158.245.137 - NetSupport C2
+94.158.245.115 - NetSupport C2
+94.158.245.104 - NetSupport C2
+185.225.17.74 - NetSupport C2
+94.158.245.81 - NetSupport C2
