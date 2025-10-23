@@ -26,6 +26,7 @@ d5b13eb9e8afb79b4d7830caf3ac746637e5bda1752962e5bd0aed3352cc4a42 - recordproduce
 03401e4637259a56561ad3f18cc76933345f6a3c8d64dc44fc6751052471b551 - Powershell Zip based loader
 
 Domain:
+
 cromvix.com - NetSupport C2
 jelaromo.com - NetSupport C2
 chiklx.com - NetSupport C2
