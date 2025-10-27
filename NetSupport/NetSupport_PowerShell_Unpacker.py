@@ -2,6 +2,7 @@
 Description: Unpacks NetSupport PowerShell based loaders
 Author: YungBinary
 SHA256 of samples:
+    1ecd721749ed2c6c36b1dea9a99eae3cb5b8ec56f7fa43d0310a1d087f5cee00 - Base64 encoded, dropped file names are random
     6b4219acaa29bb1b028a57c291dec2505d48ff75dbc308bfdb5b995cb255fefb - Base64 encoded
     40b44114c57619056d628d4c6290b7eb081d89332dbf9728384aa5feac4b4c7a - Byte arrays
     a823031ba57d0e5f7ef15d63fe93a05ed00eadfd19afc7d2fed60f20e651a8bb - Base64 -> JSON
@@ -24,30 +25,33 @@ def process_code_blocks(text):
 
     results = {"paths": [], "data": []}
 
-    # Split by Join-Path to get each block
-    blocks = re.split(r'(?=# File:)', text)
+    split_pattern = r'\$\w+\s*=\s*Join-Path\s+\$\w+\s+([\'"])(.+?)\1;?'
+    base64_pattern = r'\$\w+\s*\+=\s*[\'"](.+?)[\'"]'
+    
+    parts = re.split(split_pattern, text)
 
-    for block in blocks:
-        if not block.strip():
-            continue
+    for i in range(0, len(parts) - 2, 3):
+        base64_block = parts[i].strip()
+        filename = parts[i + 2]
 
-        # Extract filename
-        filename_match = re.search(r'# File:\s*(.+)', block)
-        if not filename_match:
-            continue
+        if base64_block:
+            # Extract all base64 values from the block
+            base64_values = re.findall(base64_pattern, base64_block)
+            combined_base64 = ''.join(base64_values)
 
-        filename = filename_match.group(1).strip()
+            results["paths"].append(filename)
+            results["data"].append(combined_base64)
 
-        # Get content before Join-Path
-        content_before_join = re.split(r'Join-Path', block)[0]
-
-        # Extract quoted strings
-        quoted_strings = re.findall(r"\$\w+\s*\+=\s*'([^']*)'", content_before_join)
-
-        results["paths"].append(filename)
-        results["data"].append(''.join(quoted_strings))
+    # If file names are associated with a map, map them
+    map_pattern = r'[\'"](.+?)[\'"]\s*=\s*[\'"](.+?)[\'"]'
+    mappings = {}
+    for match in re.finditer(map_pattern, text):
+        fake_name = match.group(1)
+        real_name = match.group(2)
+        results["paths"] = [path.replace(fake_name, real_name) for path in results["paths"]]
 
     return results
+
 
 def extract_zip_bytes_from_byte_arrays(text):
     """Extract all byte arrays, concatenate, and return bytes of zip"""
@@ -67,6 +71,7 @@ def extract_zip_bytes_from_byte_arrays(text):
 
     return bytes(all_numbers)
 
+
 def extract_base64_contents(text):
     pattern = r'@\("(.*?)"\) ?-join'
     match = re.search(pattern, text, re.DOTALL)
@@ -83,6 +88,7 @@ def read_file(file_path):
     with open(file_path, "r") as f:
         return f.read()
 
+
 def main():
     if not os.path.exists(sys.argv[1]) or not os.path.isfile(sys.argv[1]):
         raise ValueError(f"File path does not exist: {sys.argv[1]}")
@@ -92,7 +98,6 @@ def main():
         raise ValueError(f"Unable to read file contents for the file: {sys.argv[1]}")
 
     output_dir = str(uuid.uuid4())
-    os.makedirs(output_dir, exist_ok=False)
 
     # Handle variants that concatenate byte arrays into a zip archive
     zip_bytes = extract_zip_bytes_from_byte_arrays(powershell_contents)
@@ -100,6 +105,7 @@ def main():
         with zipfile.ZipFile(BytesIO(zip_bytes), 'r') as zip_ref:
             bad_file = zip_ref.testzip()
             if not bad_file:
+                os.makedirs(output_dir, exist_ok=True)
                 for file_info in zip_ref.filelist:
                     if file_info.is_dir():
                         continue
@@ -117,9 +123,14 @@ def main():
     if "paths" in payloads_dict and "data" in payloads_dict and payloads_dict["paths"] and payloads_dict["data"]:
         filenames = payloads_dict["paths"]
         base64_payloads = payloads_dict["data"]
+        os.makedirs(output_dir, exist_ok=True)
+        success = True
         for i in range(len(filenames)):
             filename = filenames[i]
             base64_payload = base64_payloads[i]
+            if not filename or not base64_payload:
+                success = False
+                break
             outpath = os.path.join(output_dir, filename)
             f = open(outpath, "wb")
             decoded_payload = base64.b64decode(base64_payload)
@@ -127,8 +138,10 @@ def main():
             f.close()
             sha256 = hashlib.sha256(decoded_payload).hexdigest()
             print(f"Extracted: {outpath}, SHA256: {sha256}")
-        print("Done.")
-        return
+
+        if success:
+            print("Done.")
+            return
     
     # Handle variants that are JSON based
     base64_contents = extract_base64_contents(powershell_contents)
@@ -140,6 +153,7 @@ def main():
     payloads_dict = json.loads(decoded_json.decode())
 
     key = next(iter(payloads_dict.keys()))
+    os.makedirs(output_dir, exist_ok=True)
     if key != "paths":
         for _, payload_dict in enumerate(payloads_dict[key]):
             keys_iterator = iter(payload_dict.keys())
@@ -172,6 +186,7 @@ def main():
 
 
     print("Done.")
+
 
 if __name__ == "__main__":
     logo = """
