@@ -7,6 +7,7 @@ SHA256 of samples:
     40b44114c57619056d628d4c6290b7eb081d89332dbf9728384aa5feac4b4c7a - Byte arrays
     a823031ba57d0e5f7ef15d63fe93a05ed00eadfd19afc7d2fed60f20e651a8bb - Base64 -> JSON
     2bd3a8ebf7e059e776bf9ed1a87f455467087e8e845618795e7dec6318d2ccad - Base64 -> JSON (older variant)
+
 """
 
 import json
@@ -20,6 +21,11 @@ from io import BytesIO
 import zipfile
 
 
+def sanitize_filename(filename):
+    pattern = r'[^A-Za-z0-9_\-.]'
+    return re.sub(pattern, '', filename)
+
+
 def process_code_blocks(text):
     """Process multiple file blocks"""
 
@@ -27,7 +33,7 @@ def process_code_blocks(text):
 
     split_pattern = r'\$\w+\s*=\s*Join-Path\s+\$\w+\s+([\'"])(.+?)\1;?'
     base64_pattern = r'\$\w+\s*\+=\s*[\'"](.+?)[\'"]'
-    
+
     parts = re.split(split_pattern, text)
 
     for i in range(0, len(parts) - 2, 3):
@@ -93,6 +99,8 @@ def main():
     if not os.path.exists(sys.argv[1]) or not os.path.isfile(sys.argv[1]):
         raise ValueError(f"File path does not exist: {sys.argv[1]}")
 
+    print(f"Processing file: {sys.argv[1]}")
+
     powershell_contents = read_file(sys.argv[1])
     if not powershell_contents:
         raise ValueError(f"Unable to read file contents for the file: {sys.argv[1]}")
@@ -113,7 +121,7 @@ def main():
                     file_content = zip_ref.read(file_info.filename)
                     sha256 = hashlib.sha256(file_content).hexdigest()
                     zip_ref.extract(file_info.filename, output_dir)
-                    outpath = os.path.join(output_dir, file_info.filename)
+                    outpath = os.path.join(output_dir, sanitize_filename(file_info.filename))
                     print(f"Extracted: {outpath}, SHA256: {sha256}")
                 print("Done.")
                 return
@@ -126,12 +134,12 @@ def main():
         os.makedirs(output_dir, exist_ok=True)
         success = True
         for i in range(len(filenames)):
-            filename = filenames[i]
+            filename = sanitize_filename(filenames[i])
             base64_payload = base64_payloads[i]
             if not filename or not base64_payload:
                 success = False
                 break
-            outpath = os.path.join(output_dir, filename)
+            outpath = os.path.join(output_dir, sanitize_filename(filename))
             f = open(outpath, "wb")
             decoded_payload = base64.b64decode(base64_payload)
             f.write(decoded_payload)
@@ -161,7 +169,7 @@ def main():
             base64_payload_key = next(keys_iterator)
             filename = payload_dict[filename_key]
             base64_payload = payload_dict[base64_payload_key]
-            outpath = os.path.join(output_dir, filename)
+            outpath = os.path.join(output_dir, sanitize_filename(filename))
             f = open(outpath, "wb")
             decoded_payload = base64.b64decode(base64_payload)
             f.write(decoded_payload)
@@ -174,7 +182,7 @@ def main():
         for i in range(len(filenames)):
             filename = filenames[i]
             base64_payload = base64_payloads[i]
-            outpath = os.path.join(output_dir, filename)
+            outpath = os.path.join(output_dir, sanitize_filename(filename))
             f = open(outpath, "wb")
             decoded_payload = base64.b64decode(base64_payload)
             f.write(decoded_payload)
@@ -199,4 +207,5 @@ if __name__ == "__main__":
 """
     print(logo)
     print("Unpack NetSupport Manager RAT PowerShell loader.")
+    print("WARNING: For use on a Malware VM only!")
     main()
