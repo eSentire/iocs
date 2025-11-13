@@ -1,5 +1,5 @@
 """
-Description: Unpacks NetSupport PowerShell based loaders
+Description: Unpacks PowerShell based loaders commonly observed dropping NetSupport, Rhadamanthys, etc.
 Author: YungBinary
 SHA256 of samples:
     1ecd721749ed2c6c36b1dea9a99eae3cb5b8ec56f7fa43d0310a1d087f5cee00 - Base64 encoded, dropped file names are random
@@ -44,6 +44,9 @@ def process_code_blocks(text):
             # Extract all base64 values from the block
             base64_values = re.findall(base64_pattern, base64_block)
             combined_base64 = ''.join(base64_values)
+
+            if not base64_values or not filename:
+                continue
 
             results["paths"].append(filename)
             results["data"].append(combined_base64)
@@ -132,13 +135,12 @@ def main():
         filenames = payloads_dict["paths"]
         base64_payloads = payloads_dict["data"]
         os.makedirs(output_dir, exist_ok=True)
-        success = True
+        success = False
         for i in range(len(filenames)):
             filename = sanitize_filename(filenames[i])
             base64_payload = base64_payloads[i]
-            if not filename or not base64_payload:
-                success = False
-                break
+            if filename and base64_payload:
+                success = True
             outpath = os.path.join(output_dir, sanitize_filename(filename))
             f = open(outpath, "wb")
             decoded_payload = base64.b64decode(base64_payload)

