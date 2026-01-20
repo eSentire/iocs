@@ -1,0 +1,315 @@
+SYNCFUTURE ESPIONAGE CAMPAIGN IOCS:
+
+Domains Hosting Initial Fake Government of India Tax Documents 
+incometax[.]gu[.]cc 
+hfrrhfhfhjf[.]icu 
+ind[.]incometax[.]click 
+www[.]gov-a[.]club 
+downloaderi[.]cc 
+admin[.]amazonfgyrs[.]com 
+qin[.]exiaodou[.]com 
+www[.]ydsyii[.]com 
+bpsalpe[.]cn 
+contentery[.]cc 
+fhfhjndgh[.]asia 
+gov-c[.]club 
+gvo-b[.]club 
+india[.]imedikate[.]com 
+gov[.]incometax[.]click 
+documentewr[.]cc 
+go[.]incometax[.]gu[.]cc 
+gov-a[.]fit 
+www[.]betmmm[.]vip 
+in[.]exiaodou[.]com 
+sxzqios[.]vip 
+zpclzc[.]cc 
+kerpalr[.]cc 
+aawqwadazc[.]shop 
+instengneededinstengacross[.]com 
+importanter[.]vip 
+www[.]taxeiit8[.]cn 
+t-lebosports[.]cn 
+gov-a[.]work 
+www[.]llipeiyue[.]com 
+walzes[.]shop 
+mrysaqw[.]qpon 
+zsqtmi[.]cn 
+sgevip[.]vip 
+in[.]incometax[.]gu[.]cc 
+exiaodou[.]com 
+www[.]betooo[.]vip 
+cocdex[.]cn 
+wobu[.]ws 
+www[.]govk[.]club 
+gfvgddgd[.]shop 
+incometaxindiaefiling[.]help 
+amqkidy[.]cn 
+ydsyii[.]com 
+go[.]incometax[.]click 
+www[.]gov-a[.]fit 
+foeo[.]cn 
+peyvz[.]com 
+llipeiyue[.]com 
+ksiscwe[.]cc 
+djhlodg[.]icu 
+india[.]incometax[.]gu[.]cc 
+fuiicopce[.]vip 
+taxation[.]imedikate[.]com 
+sitemap[.]incometax[.]click 
+www[.]gvo-b[.]club 
+vsdnk[.]top 
+exsular[.]com 
+googlehguk[.]com 
+ashengad[.]top 
+gooomld[.]top 
+moonbox[.]in 
+fhykb[.]fit 
+domainct[.]com 
+oytdwzz[.]shop 
+xfofaow[.]cn 
+fdshj[.]fit 
+nicolasbedel[.]com 
+jhmrrru[.]cn 
+googlehfgj[.]shop 
+xxgzbts[.]cn 
+siyer[.]shinengdan[.]com 
+ksdfuefagfrukayhfka[.]eu[.]cc 
+googlehfgj[.]icu 
+fwqjwhe[.]cn 
+etyhf2488[.]icu 
+haiwang[.]exiaodou[.]com 
+bjmacrc[.]com 
+dadasf[.]qpon 
+gofjasj[.]help 
+kaip11vip[.]top 
+heloman[.]top 
+fkfjrvfa[.]cn 
+gooomoel[.]icu 
+nnnwin[.]vip 
+goolmor[.]cyou 
+www[.]suihongsdnamzq[.]com 
+www[.]zhantugaokao[.]com 
+fgsdol[.]icu 
+www[.]amazonfgyrs[.]com 
+importanter[.]cc 
+yy[.]ydsyii[.]com 
+gatjobs[.]top 
+inder[.]exiaodou[.]com 
+viewporter[.]cc 
+googlexa[.]top 
+gogldha[.]shop 
+inconsistenter[.]cc 
+wgooglegoogle[.]com 
+
+IP Addresses
+IP|ASN|ASN_NAME|ASN_TYPE|COMPANY_NAME|COUNTRY
+180.178.56.230|AS963|N963 PTE. LTD.|hosting|Netsec Limited|US
+45.204.208.180|AS62468|VpsQuan L.L.C.|hosting|HK UNITE TELECOMMUNICATIONS DEVELOPMENT LIMITED|HK
+8.217.152.225|AS45102|Alibaba (US) Technology Co., Ltd.|hosting|Aliyun Computing Co.LTD|HK
+103.97.131.44|AS55933|Cloudie Limited|hosting|Telecom Data Center|HK
+108.181.161.156|AS40676|Psychz Networks|hosting|Psychz Networks|US
+143.14.122.112|AS42960|VH Global Limited|hosting|Brander Group Inc|HK
+143.14.120.252|AS42960|VH Global Limited|hosting|Brander Group Inc|HK
+167.88.177.108|AS967|VMISS Inc.|hosting|2EZ Network Inc.|US
+3.110.184.116|AS16509|Amazon.com, Inc.|hosting|Amazon Data Services India|IN
+
+Email Address used to register websites delivering Stage2 and Stage3 Payloads 
+legroslorna748@gmail[.]com  - fkfjrvfa[.]cn, fwqjwhe[.]cn, amqkidy[.]cn, jhmrrru[.]cn, xfofaow[.]cn, bpsalpe[.]cn, eaxwwyr[.]cn, cocdex[.]cn, foeo[.]cn, beijingpz[.]cn, gzzjbx[.]cn, gjjtss[.]cn, csyssh[.]cn, bjsnjk[.]cn 
+weekskataleya@gmail[.]com - t-lebosports[.]cn, zsqtmi[.]cn, aaaneniisyq[.]cn, zongherpz[.]cn, qsrt[.]cn 
+usdt666777001@gmail[.]com - taxeiit8[.]cn 
+osamabegum9@gmail[.]com - Xxgzbts[.]cn 
+
+SyncFuture TCM dropped Files (SHA256 Hash)
+curl.exe - 7744b5f9e24a5810bedbf4e32f03d40f1c0595a7c89a12e0ff0302b4ef07f250
+VSetup64.exe - 65a6e8c28364a24d63a251e2809eeeb7533bd6c7de88a270aab7950c7d59802f
+vgwdrv.sys - 2634d8dc1fe3a415ce566101e25ecf08bb94c9353891cbc5afae2a8f16e97619
+vgwdrv64.sys - 2634d8dc1fe3a415ce566101e25ecf08bb94c9353891cbc5afae2a8f16e97619
+UserCtrl32.dll - 97f9c7be68f97091660db56d1813b9a561d9f5e87d8b1f08e84f4fd8ba5f2acf
+UserCtrl64.dll - 15f43e0fe5d9664171e092be805dd6450aaf08099536fee0a2432e4e139dde11
+mfc140u.dll - 35cdb1e79f7d65c4a0bb7e01bc8baaaab58e6413e6876029b32865b8564d2f9f
+netft.sys - cb14876a406f59ef94ff5531f8f4a1bfe42b503fe219007c82a2718a2ede2cb5
+netftxp.sys - e019f34606cf878e6b0a2f568673ca302936a8b949cefffabbf024b8d88136a5
+nfapi.dll - 57eb61219499a328474a6a2bbf129baa9809c0a8a1bd376b8a614344509a9abd
+libeay32.dll - 1df7766e84d1293495f22087d19785aa7cd761e13d7895157807cc22ceccf6f5
+ssleay32.dll - abce97440cb27e899e3b014da2256aa0dc2eda7a96d8be543fbb959bb7712c7e
+ProtocolFilters.dll - 91794153ea78e4823b12bd60f8929eb251ee1b0cd39dc2b01e41c83bc0a8e6b4
+help.bat - 72eaf1d0ba948f467fd98e85883aad933957167640e6a1be74a79d3e11ec7f6d
+vgwdrv.dll - 0ef28a2a79f70b01664470fd345c4f08a3aef8cd36a850a2e58b297c5ff2a456
+vgwdrv64-win7.dll - 0ef28a2a79f70b01664470fd345c4f08a3aef8cd36a850a2e58b297c5ff2a456
+vgwdrv64.dll - 0ef28a2a79f70b01664470fd345c4f08a3aef8cd36a850a2e58b297c5ff2a456
+vgwdrv.dll - 0be721df03ac9378d1a9901c268b2b41e21d4be551313ea86d3f578215c28e61
+vgwdrv.dll - 9db8d6ad565354f58534aba14456373f4f9c26283c48567ac6e30d55e99da7b0
+rdt.ytf - fb76b1a0f281a6b917beebb85edb8ac844c3b2d4bd910988d0b844c1ed88b29d
+HKSock64.dll - 4b007c5be27a67d89e4c8b397d7085accbff8573650a93af629765d3897fc813
+HKSock32.dll - 4bd453a2af713299a7493c749a35a52d24b10238d0da1942a07d54214b1cd085
+helpformat.bat - 956873d9b0fffcf73bb8a7e5c9586c337d9524862393fb286d489c4d1f009e83
+minifs.sys - 0bca4a66e93f56c293e102dfdc0f1a7b2dd8bcbd68cad161dae915e404a9ae7e
+sqlite64.dll - 75a8f39ad9787268090c3ce04c18cfb13314be394ec838c740a3a419ac74706c
+desktopDuplication.dll - a7b4afb3f0dbe6eae4129945d8bc4d22a4721b3014a7fb7b4b2cd403ecb38416
+vgwdrv64-win10.dll - ddbc012a24a600cd0f4857b304f122ab58b6ad570ee1cc2022cdd8d51d712cdb
+FileTransport.dll - 2b6ce275665dbce73c6a7b83233c3c04a69fa89b116560d10ba9fdc618274ac0
+vfsd_fre_win7_AMD64-Replace.sys - 71a2225e57602376dbe5b88db0d005291535052efa3bfb5c5b9a924766f19eb9
+NETConfig.ytf - 71233838af45f6c01715f3dfb4115a2a81c0dec1bf2943d4b127fefedd8c1f76
+yunoper.dll - 8e52804d68dfb0a4e5edeeb26bf5d3c3849e66dfb4500e3c271633376023e6d8
+PacketUpdate.dll - cd705a15cd6175d428266ddf5b2f3b48a9edf5fb1b3d994ca5866f59a69e6c53
+setuptool.exe - a5927aede0fcdb9e2b45a0f62de8adf803accae612324f68f4b44ce40aff0cf4
+ClientTool.exe - ee482c148f573cc0f7dc4aa3e83eab262db7216e3acbde6fe1e2e7f291f9a1e8
+ViewC.dll - f306faea2b7979fa68f4df0996942f3bd727b794f99224d7c70031e20940411d
+VSComLib.dll - 620a0fd67167ec855c62e48d13a8059c1c90b4d57e3d2cc77be655fc3c53b18e
+AdoBase.dll - 2a84586c30d1b8101ddd816492407e97c60183301e5b73fce89272fca6dd18e1
+GlobalUserCtrl64.dll - eda254235f25345c78e854dd1ce88360fbd71f711c6d714b55eae160b04abd6c
+GlobalUserCtrl32.dll - 489c3f7081f6e33516f15070b07e24d0891d3604de146aae57f78e062f6f9d52
+XFMainTh.dll - 24b22085bcfe011329eca31f78b6546f55097245e8bc3fcb4177bb714948b1a9
+ComFun.dll - 9626af0d5dfb63ac4797130bc8f1cff54b8ff3bffb1e9ce4c5b52a9932f7eb36
+svcnet.exe - f87946f5093c2a378b34b67355a17e79147d03aa0c31820d34fd037b3830143b
+YTFunDll32.dll - 32272eb9b639c138be652a5206630815634b98daee4290df708a5c2654bdb22a
+YTFunDll64.dll - 7d2f08557153c9b37022c3dc2c0b16d651967ac1524d76ad6c7250be8fc8106d
+ViewRecording.dll - b0060a1ee06899cfa23d5dcea0271f0f876edb6f970fb43a1138dfd3a30de7b8
+svcdsk.exe - 0f289124de7cff4558565da42fbdeb74aa3d525150ce859785a64a87afb41f84
+FSConfig.ytf - 2d48b2e56236f3f915e3c9cc4516afd8be10b3512ac51f025aed496c6abc3378
+UCommon.exe - a892e0d0fa0dbf01f6e590b323aa17888d8ba2a6cb3473d7e59bea72eced50b8
+svcYun.exe - 358b66c1b6bbf0e020b85f204d54b9e9be17a859525c6035f439d2563d55eb1a
+viewrect.dll - 6cc77760933cf843493d827ca1b558622c9d2354e267914c8a00f727e3ccbec6
+viewRect64.dll - fed1bf695cb11b0fe1f9f726dcfcbfafdb3ef9fc813bfa30cdfc2a90745fa369
+zip.dll - 79b43e1a8bd6880c3dbb7bc5558c3c345918cfbac151ceb08a70f04cc3e38e97
+InstallEx.exe - ef1eb9dc0d1653ea2e0a6f22e5914504464539158a81a89c88e4d7c86ed2bb9e
+InjectDll32.exe - 1ce3915be07d472fc6fd66cba5a467e40c295b9cd8d56ed391fb2b37d41106ae
+SMSS.exe - 865c7f85b6e8f12d132cc6bb519426134fe07e9c6e388acdd1905923f97e2656
+CJ60Lib.dll - c1a060f44e8cc5d4dadc67dd22799ac6c3a8c7bd7d01273e6da6d250e2e6ce80
+change.dll - c3d4be166c848b7e4eecd973579ab85311f707548fd2cc1ca0de6f894ed937c4
+ExcelFunDll.dll - c09fa3a3b7de322132a2b7f417568738c5549722ff5afbb51f710684154c1262
+HKForbit.dll - ac4fe65c52a0c69cfb69a3553f16879e0fab862973013080ed885d720e62663b
+IJL15.dll - 85969ae1d3c51dc21f5431a69eacac07e8f2f891acfc298e8dd41988fa38786e
+LanMap.dll - ea65c4abdedce21905668dc8198cc7612a4132482a17e0dcba9a533db426d711
+libsedisk.dll - 78b8a14a8951684442cfbbc5a01576de595957bbbc8d2cdfc8240f34b93892bd
+mspm32.dll - ee0983a48b032db76f18535c23a4a12f1facbe57a07774473707bbe4d9b54bb2
+msproc.dll - a0181bbd93b6c8bb812034870ba10fd775ba4c966856cd9b105c93d611e71f1d
+mspm64.dll - 314edbc1586de4b59983984ce850b7e8f22b7e3dc44f109f5192234ff5569260
+NetClass.dll - 88c60a80d94c2a24637983fa1981937efc78f74270fa60a8aa08753581a67466
+NetTran.dll - 0ad13019aa809b8a5bf46da8b05bba1b5a509c03c5dd70f1566dfbe870b25d9f
+NewLockDesk.dll - 99399ea32524b49d9468078a7579c476e9ce732a94e83ff25caa8ec7682eb940
+restoreKrl.dll - 57ea7d17563262db0ad276b234db5a1db433d14c272ffebf3e62ab8a7aa860b1
+ScanOfficeDll.dll - 4d90dd390f2fc2c345011c690066898409243e39d3a72e2aac2baf385e82e508
+sqlite3.dll - cb8687b931ee0f8f5f804d5c19db094f3645bae496d278e772072dea532a5421
+TaskKeyHook.dll - bec77506c9b95aacd2703d45d2767141c5ec6186123c2817537c77d8a9cc7bb3
+VerCtrl.dll - 1ad6995037571b3532765b366d757c2493617da2899d69886576df7aa13a3fba
+USBManage.dll - e0cc2d9775b267dbfb1566b4d8dfec43bf23c9e1e808d4da74c80c8e7da19aa3
+ImageLib.dll - 2ec996d57779ba2a41c5b78a1dbc06791b8d6ca03fc269206d0a03a6e3842728
+vfsd_fre_win10_AMD64.Sys - bf32737eb2e7599a58e677966d73dc942bc15a962002418a1bb779cb255ad0f5
+FRSDKTest.exe - f2c4ad6d9a4c89200586743017a326bf01fa2cbea5760eec023a18645a167dd2
+sgfp.sys - 764ca705469ab9ea4fa11d25886a6c40d1c14ec1bf7ae0bb6e025d53769d2119
+sgfp64_win10.sys - c5b0f045a283aa0a550a92a53fdea316437decc1352c8cfb1e0b05ddb2c1594a
+sgfp64.sys - fabb5e79ff0aab237a0a3626ca60bd08852426ca1e58d628d2e99a05dddedf90
+sysaid.exe - c35041d6dc9e2bfd9d924d7b205f49f2132388e834d832aad42ab63d245eae86
+svcvpd.exe - 6bcfde9998ba5aef0092233625a8ccf6347488898415c56329a77051863f794c
+FSHost32.exe - 529b0c0daa3b32e02e92d2d76763508544e8e7eb2f0124872e3d0adec4528102
+vfsd_fre_win10_x86.sys - 93223c8c15681ed4845a547867c924c1ca04b72ae1bde60be8a6023613e4a085
+vfsd_fre_win7_x86.sys - 93223c8c15681ed4845a547867c924c1ca04b72ae1bde60be8a6023613e4a085
+vfsd_fre_win7_AMD64.sys - e8794ff0a18102845b3e09df143d0bdcb408c1ce51440ff436233488899a3f30
+WifiPolicyDLL.dll - f3084ad72375c6b91691178805ff89c638f4266dfbd31ea9d2b82bac0d1a3710
+DeviceManage.dll - 92ef2741c29618daa2e188a016f4f7bfc500f601c0b6ca71be754260aafb0142
+ytuiafun.dll - 57dd9353ac36678b9b34eea1171205157ba2964952e66e29bbfff914081f16af
+English.ytf - ce10266745e259632f0e1824cc681c4d701513e14fe055b8034f1bc46b9ff066
+VSetup.exe - eb0504ae1dea3fb6a4db2d705196d7f94b0111d365825e53194f64af3e71c8c0
+Setup.exe - 7f830176240aacd9ee1baf568f9f26c65dc2de36142c125922c73be8587abbef
+SystemInfo.dll - a64afcf309de50a2912159210639e464f85548b3046c8ff485ce09d8d603e856
+sedisk64.sys - bb98eb7d6525ab575cb8307489ed2b5bde3ba762c7734e222f1c999cff97116f
+safeport.ytf - e4adce7ed5df86e7bf5c98ed95eefe6f94ce05eccfef3e6aeed47c2eb170d614
+ytDisk2_64.sys - f6268d2f89c826f8f0ab4c165fb324672e0e00d198c3b43bc1ad6b2c9e0f65e0
+ProcMon64.sys - 36d2da5acdab7b7941ab63b08cd0f2b6d6b11d3d8be4b98b6dbd18593bf87137
+NetW.ytf - d5864001f2eb922ac579f1cbfcb3dfadb1216ee43550f3955218c2792bddffae
+vgwdrv.sys - fd18c523ab72276834b5988288edd194315653081c418d9c509be589d0aa392b
+exit.bat - 37575840eceab458fcec26803083b60405054b26924c84668e3a8002619c17ab
+wni.ytf - 5cb06a70268d0062ada41957628ad9270ffc29836dcb2c0e24dfbb3169c4c673
+ytDisk2_32.sys - 577bc08f78e11bb23322f25166a7ca048f3f4c80b0fddefa673c430d80302fb3
+ytdisk.sys - b2c4e83bc892f065496cb6321411fd0318622f5b89796e68e16b8d5d67736e1d
+riben.ytf - 47d2994494b732ca89385d218c55fb762ec36e7bf5487f6ba42791088940f9aa
+rdf.ytf - 9e6b1cd851e9de4edd4d8bdccf75fc0cff65a05818285cfb2ecf071b1d8c2617
+BeginLog.bat - ab36cb3e4190c25a9070152eca55a7d4deca4f8c893b6753b1bb45c7a48145b8
+StopLog.bat - 4b0522a703d92e5d6138898f91b9e5c959b7d27c07524612525f2114b9ec9e8a
+sedisk.sys - 462a576ca834d3061ea14b9bc8fa75107a9863597a48a7b3aaf6b208fa5dad81
+MANC.exe - 8e8156c5a8be682dac3b5d867031e8d5cbae031ffeb4c0ddd5e5a6b41ca76555
+64.bat - 81b824464c9ef5a338d78dbad2e65101fe6a8dc48de096bd89b0bc14fd5fa475
+32.bat - e2fe1a6be8388716c83a8f112bfc37d768c638793fa6044f1f74239f2ebc9809
+ParaSet.ytf - 01aefa0e161d12e2c3c60f347015bf3d19e70fde76597f012d20b432a6272368
+ScreenLock.exe - 8b30ffa66b2370175bdbfe902870f4fef18bd959eb6c12545b84b2ade817ca97
+YTShellExt64.dll - a9ba9d8cd5604f059575ce1010baa3e62958c39cea71feff0afc40c7942cd1d1
+YTShellExt32.dll - a2e70678709f90fede8a3474505362fe2bfec25f7eccbafb9296650ab2089635
+ufsd32.dll - 066771464bb301a3164fbb0b4a65b55e01ec3bdbaee6975dc418741bbc5bb78c
+ufsd64.dll - f209c335499c9f06a89b32015bcaddce138a58eddba1c03a567ce7054de8363e
+UfsdCrypto64.dll - b3e07f8dcd8e6af2196853dfaff1e7e570b0cb391d81efb2226248aacfe04ef5
+UfsdCrypto32.dll - 8e25aa6dcef80e3a20c6a0ed8f55321f8e4b245cfd7762c95398b8de7f39f40f
+MFrame.dll - 4a7cb2850c50857e3014238c9176a3c65d5b6f38cda3a52f1987378894f76b8d
+avutil-55.dll - 87f4f3c05f1b7bae4308cdf25fbf77fb16e91ed5f476103edc55bd12a4613e4b
+postproc-54.dll - 72351bdf4cbbad4f9dbb49db4d05944a78e4c326e812d70f6f5b2380e5253121
+avcodec-57.dll - fcc27aa0aad45d8b144a0271c744941b7476d96149265d6ac4695ce89f36897b
+swresample-2.dll - 55527e84f99edf4a9a42ed514612077d8e84af28427d8751944d384016526db6
+swscale-4.dll - a75532c4162ec1219713057b6d8a1d00cbc65c33ae59ea3977c4e795aa120d11
+avdevice-57.dll - 0e7eb7f0bcbc3a067613d88a9c9d44466de7d6dbcbdf0139eab5a46e6df99a72
+avfilter-6.dll - 55ce7664f5c572c57cdf9176131610d0ad173f662d8c4d048a02207cd21aeb1e
+avformat-57.dll - 60d37ccace3ae32bffa1bbec6220c5c91b8c41d0cfb851d024016294e70c1688
+svcCom.exe - 86c7ea63f7c6d88bed22373158b11fc36afd7759475c8113a5df0e65c8e94309
+TaskSend.dll - 6aefb65e263cea3a0cf64336ff72b38f04d317080113f2dc9e1d89ea6f8ba94d
+AssistantThC.dll - 1ea78d0a4b16162aaca59e25e516831ae8208da17b6a50f566074544292571bc
+svcwtr.exe - 22aa5e3e2c4e64c0f01d74cec5b92c9ca96eb60a3de0d8e8dc67474a72d952e5
+GenEwm.exe - e1239180e1c8ba9210ae0a5d5a8f6ffd531cdbc7bde93723de69d657517e5d06
+UnicodeDLL.dll - cbe552e4f8bb64aff155f1298623f4e1fa18d7e719a519e0ebae1a7692c3b934
+Rar.exe - 58bbe2d40ad2f9881d0883fc5aa72d2e25000f77b9559d7a75e4a7620502c6c2
+7z.exe - 26d550366491ee0fe14f6cbb67c9bac55300a04b34e92f973a96d00cef071e5e
+7z.dll - 4200b6b656c3c7b6447a42632451e2402245815eccd6f9a3baff60585fbb0b0f
+UnPack.exe - 314d885dac57a930c11c4e0e0c4b035ec9e18cdc9bf07cf8841ff69d92e9455f
+EncryptGUI.exe - 799d02851e8019d171f187760310f498ef6e212c3a84331f237c8b6f31842a55
+MsgTrack.dll - ddeba97be23eb2469dd890657e2eb5154c5294dd399fa4ece5b4a0db5a0c5d72
+ProcMon.sys - 6bdfaacd0116cbc17386409faaee51e7a9adbdfd61dbc1f2a36338fbbdcbac52
+NewUIShortCut.exe - fa9403fa3e02b39575a9e65b2a8ea5aa3c57acc6cc7153edc663b11334d1a20a
+FSHost64.exe - f66a17bd793919f5427a1888860b102446f85ff18530bface26cf49420f6b89a
+SetPermissions.bat - e21e34bf3622617f2a573afd7e52c2683d2ebd0f38fa284cfb594fa15b5ced43
+SCW64.dll - e35393e0094811f4bb7148ccbee06da9df854dd29123612f3e81b98984fac81e
+SCW32.dll - 6feedf3fae114b3e9cdd0ea9ef01312aaf579c03f387c748d646aa97ebcf9b3f
+FastMnt.dll - fd11d2da6d878c378fcb51c6603639d405ab9c9594836cd495b7edfbfd8e8892
+FASTMNT.sys - d219c0d74d6e961b5e9b202a79e36bf60844954a9732d81eb99d8c07c2daad41
+Restore.dll - 1d38ef1fe6363c73e98e6f6fe90897864d9c842333d87ad7bc052c2fc08dcc9a
+FRSDK.dll - 928db8309813a11b850c3769656673785cec21ce51a8f33e5069fd114be1c8c5
+FASTMNT_x64.sys - 7e999ad2fd0c1ad9cef68daff129d3eed82dad265cf79b9b7eb15eae2d647e4a
+Detection.dll - dbf02ecb4c64d240fa15b42b84844ecc8a1c8509e090edea36764e05dd8312f8
+FRSDKTest-2020.10.14 bak.exe - 490f6bdcd7b80e5c3063b48333ce8e7d842e2899e8f228f14d6a10ff0267effd
+fadisk_x64.sys - afbc7d48a0cad54eefb88b5d93c2e392f7d6a21de6d46f2a7c36754a02b6c2f3
+fadisk.sys - 3a8f998c86365cb4c3b318f48085a021d80421dd5c85abbf2cfa0ab3d0b86e23
+svchost.exe - 04a765b047a765289c8e9f79878ec703c25c891f3f8ab1a2ec1af1d2ddfbc74e
+GFunLib64.dll - c1e723f58169fd4e5499d0d750bd2b153eb8bdc0c1b451b39f290cc33c314edf
+GFunLib32.dll - ac3434dddd73e45ca49c1df6126ae933a7dfb1e7551ce9c252259e5086ac5c66
+netftxp64.sys - bed732c6dba1912556d7255c856eb682477a831435d9569fc97ffec47d749c9d
+ytdisk64.sys - 02693582f2a63a7492d6aa7437a679dc01fb6471357b199de1db9978cfa5fde3
+netft64.sys - 96e305378195ece2bd0322528fd0fcc6f4c5cee5b13ec32e65521e1a2946e82a
+LanMap.dll - fc7184c525ec9983090b24d4e0b4d28d47db8f22ab3728b864c9814352a1b8b8
+libeay32.dll - fcd987fdcccf64ef1eb8782ef5f9ff2df58c9ee1f8641f3f85715240faf1484a
+VSCommon.dll - 91170a8bf80097baf519f36983a05ce6f73b1bad3449c9433cf4b46e769eb882
+ufsdicon64.dll - bc898384f963a1f3910c8d9d58b0a5c26ae4c47fe738e63b8f1c6c2c1e813ff2
+ufsdicon32.dll - 677719900cc390a67097b433deecdd4036c39a79d92b2ff1fa1717cbaddd1908
+procW.ytf - 48d314472108656f653c13c14030b68cd02e5cf7373261462ee98b1596c7761b
+vfsd_fre_wlh_AMD64.sys - a8ec90c0d4dc1afd4fd9d2c41319e677ef1fc407b19866ec2250a62b1ef689b2
+vfsd_fre_wlh_x86.sys - 47214f7aad8cd0058eb34229e8a29157ca14dbf2e905dc921f09653f27fb6b58
+vfsd_fre_wnet_AMD64.sys - 893d941a24b63983681b59194097ded2219e8950188711e706636b6eb057bdae
+vfsd_fre_wnet_x86.sys - 447d3d1517802755cc06fc6e34e80ddd29df49241ec68c0ccff18e32d342a4f5
+CleanPermissions.bat - 1fea25eb2950b3726c6dfc21b25a44a78ea2e3d47565b11ffb877659ab3436e7
+TurboDLL.dll - ff8a5f18c262d6aa9452a910ecdd7d361ee8bdaacc79283f5ce263bf97b8a7db
+vfsd_fre_wxp_x86.sys - 105a21cd7bcc57f9f586eb1068ea3cfa00052eca3d5ce6d5270111e1ade42767
+YtMiniFilter64.sys - 613b327fcbc283656f9fa7aee5563775dc758ea657b03d22a7802698c6c269e8
+YtMiniFilter.sys - 613b327fcbc283656f9fa7aee5563775dc758ea657b03d22a7802698c6c269e8
+YtMiniFilter.sys - a7670d15ad1833e9f2bcee60c2318b40e747c97f2f96658c1c68a20e0f73da27
+AnsiDLL.dll - eee55a11f553fbf058d07301bf0a68a000d93288d755b997fa96a454e2f10582
+dismapi.dll - 03a6644eb95c448a56177e5f38ab8ec1f2295089f0802b3f7f8a2607c76f4fd0
+TurboDLL.dll - 189b03db826c2318a91782c12b069c58a05a1535530f5d0f7161e1fecff88a0e
+itp.ytf - 47d5daaffdc3dcce3ca48f192faca8c739eb07fe6fcd43695ef2c537e288bcff
+AuditorViewWaitList.exe - b0525fb84cde0405461a9be559b1875e0a65018b232f6e206b6a8b5caa76825b
+NetBase.dll - c02d4143e20bfdf2ed11da972414e3eeb6f4f155a34e336aa3d1b5f0075d6b8c
+imageocr.dll - eb818b4c6bf4fa277de19bd5a094d954b39b49695fe37a87dcbd697a4b7b239a
+scwnew.dll - 3c7c1706aa82cb0c5df0a9b19401a9e246db9bb0aa8d4de8afc9f98705dee9f7
+FileEncrypt.dll - b1dff7a1202f0d0a45e93280551689666ec1546b5fa469011c8de9721e1c64bc
+GUI.dll - 412b29b657c4d1a41d3be6678a506cbd2392044150d2ed207410d57b0bfcfb34
+8021xClient.dll - 9c373efedebc010de1aee393471ad7ef5246db3310fba53147e535833e5a709c
+trayicon.exe - ec767ad75bf55658696041d3857a6fa385cbb2255d9ad0470daff9efe677cf76
+NetJMFile32.dll - 6f4c4188c07a35e87878648a3d8f96cb5c75fff593ac540b9db85e500f96059e
+NetJMFile64.dll - 4bd949919778ef055a8003fc6ebc7c49b422921530bdd5935480fc4cc17682d4
+msch.dll - f7f4953a9ab301e8be4a9a144c5fb2e110e58c6b37075a0f1b6793eddd7d21b1
+msch64.dll - 8bf06ce8f7503ea80b7363842194a3378d3fae602a9469ba7c21d98b9b36da10
