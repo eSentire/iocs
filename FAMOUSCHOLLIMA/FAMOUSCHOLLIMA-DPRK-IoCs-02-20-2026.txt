@@ -1,0 +1,44 @@
+IPv4:
+
+45.249.90.214 - FAMOUSCHOLLIMA C2
+136.0.9.8 - FAMOUSCHOLLIMA C2
+23.27.202.27 - FAMOUSCHOLLIMA C2
+23.27.120.142 - FAMOUSCHOLLIMA C2
+177.243.216.132 - FAMOUSCHOLLIMA C2
+23.27.20.143 - FAMOUSCHOLLIMA C2
+
+URL:
+
+hxxps://github[.]com/julianmitchell91/ShoeVista - GitHub repo (no longer infected with backdoor)
+
+File:
+
+70b7877644ae04860be5a5eb32e8459fedd0d1c9eef79a0b5173660e2ae4b888 - DEV#POPPER STAGER #1
+55b53de91c7442873d6670036bf5f8fc3292fe048a45707db1b8ddc3127dcd3c - DEV#POPPER STAGER #2 (Obfuscated)
+5877c397a6c8e7bac9606ec41bfed1ac549eb0a2769de19ce82ef588d7ff31d0 - DEV#POPPER STAGER #2 (Deobfuscated)
+4ec542049554f21aeb25a6bc3b3b482bb8027ea7e7e07626a2ee9f3e8c214841 - DEV#POPPER (Obfuscated)
+fe90dcbbdcb16ba979ce73df5881d568126a77d0943ab496bac0eb3e6ba9644f - DEV#POPPER (Deobfuscated)
+2b2e56fcf3105b7d84ee90b1338775830b8728993202fec0c3aac68f891a3fde - OmniStealer Stager #2
+e0a56a3a7f0d41cdf34b217b3ea51afd6838384e64dbb62e8a89831375814fb2 - OmniStealer
+
+Command Line (Windows):
+
+node.exe -e <MALICIOUS_JAVASCRIPT>
+python.exe -c <MALICIOUS_PYTHON>
+wmic useraccount where name='USERNAME' get sid
+wmic useraccount get sid
+taskkill /f /im chrome.exe
+taskkill /f /im firefox.exe
+taskkill /f /im msedge.exe
+taskkill /f /im brave.exe
+taskkill /f /im opera.exe
+taskkill /f /im vivaldi.exe
+
+Command Line (macOS):
+
+node -e <MALICIOUS_JAVASCRIPT>
+python -c <MALICIOUS_PYTHON>
+system_profiler SPHardwareDataType | awk '/UUID/ { print $3; }'
+security -q find-generic-password -w -a Chrome -s "Chrome Safe Storage"
+security -q find-generic-password -w -a Brave -s "Brave Safe Storage"
+security -q find-generic-password -w -a Microsoft\ Edge -s "Microsoft Edge Safe Storage"
