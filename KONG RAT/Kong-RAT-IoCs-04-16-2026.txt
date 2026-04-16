@@ -1,0 +1,145 @@
+KONG RAT - INDICATORS OF COMPROMISE
+Campaign: Multi-Stage SEO Poisoning Campaign Deploys Kong RAT
+
+
+FILE HASHES
+ File                          SHA256
+finalshell-SetupX64[.]exe         97e6c4639b8e9049987adb7825a65dded251bfc0db98b1ce823d146445b199f6
+Setup[.]exe                       d6620d753e746e63b59e1e47943be5093f24fd3f82e994115cadeea3720f1aea
+finalshell_windows_x64.exe      17e800d967183db3d87b9baac4007a67dd17395efc94c05be92fe7a74423ad53
+win32-quickq[.]exe                67a53570e6a84a90a174c4ee250e11fb64f13bafbf3c226830e442c158de7d21
+zj.mp4                          3a1dd72dd2dec21d18b8fcd72d221f069fed2d35c2bf4cdf042c9ae722d6c820
+Setupexe[.]exe                    736b2c5782fca75a85379181bcf1d3a719a14cacd938d053c03b16041059dd8f
+rcdll[.]dll                       2b7d31a83ff817be7bdd6e9cf92dea438ca97dc93ea84cbf048f8656f7dd57dd
+oob[.]xml                         ae160034478a340421e20dc7c8fdee626cc3b8035d278f0a94afaf31766eea48
+Embedded EXE (Kong RAT)         ed68397183e72e7113c8ac4aceddf2051abf55d7c62b6fa69f62cbda11324ab8
+
+
+
+FILE HASHES - ADDITIONAL SAMPLES
+File                          SHA256                                                              Domain
+Sunflow_Distnce_x64.exe         6a4dffe30591dce424cd90bb369d9dd6463d204c0cea4d16589c5116a442d5ac    hxxp[://]103[.]45[.]64[.]31:8080
+APP3[.]dll                        278ecba3c6c3491a41eed6b9d40e8e3f7ca811e7ee8373b79e1a684a61f3b00f    hxxps[://]qyyop456[.]oss-cn-hongkong[.]aliyuncs[.]com
+DeepSeekV20[.]66-Setup[.]zip        125d9c883c91fa7a36bd3eb0418194da51be64c28a4e52a3d62df13e6586c5ad    hxxp[://]ssowindows[.]oss-cn-hongkong[.]aliyuncs[.]com
+ds.mp4                          f7bbf4cf0d9ceeec84dcaae03f827d614310d80d7778e8e01864ab901c5a94c5    hxxps[://]qyyop456[.]oss-cn-hongkong[.]aliyuncs[.]com
+DeepSeekV20[.]66-Setup[.]exe        ec1dc8b0f6b6921a9d93769aeacb193ea513d390ae25eedad383fde2e3be661a    hxxps[://]qyyop456[.]oss-cn-hongkong[.]aliyuncs[.]com
+APP3[.]dll                        e16a79acf34a09d891e2d87bd8d1026b3f1310833cdcc6994557e8c277b678e2    hxxp[://]45[.]192[.]169[.]97:8080
+fbuygs[.]pnd                      761be18bb691e72ffb911ffb61dae3add8b8f289b94c21bcd7f4859d29bd8f20    hxxp[://]45[.]192[.]169[.]97:8080
+ipxepn0[.]exe                     2441d2d4b5abfbfc3b67f6e18b32be1bed0a5dd1652bf2da77778ab34a6e04df    -
+APP3[.]dll                        9018777f1f49d1ff45fd105d9299fafc695d639efb42815dd96f8a0cc296efa1    hxxps[://]tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+huanxi.mp4                      0cac13a91f14f49ca0c27b1d7a00f4a382616a8b91f32b05692369528adc98cb    hxxps[://]tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+ap2aa[.]exe                       645a07f654058138002827dc9e6838967ea787e231efafcb138948b2dd04c1f2    hxxps[://]tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+zovqhyk[.]exe                     e718c89ce05a1e1b611f98d97cf8fed9b375741a0f7ad18bab39c62c721ab69a    hxxps[://]tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+laicai.mp4                      bd9d57bb3d13063936d901db853e79a70496b7176c8478818d7165d2179d5e06    hxxps[://]tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+
+
+
+NETWORK - DOMAINS
+finalshell-ssh[.]com
+xshell-cn[.]com
+xshell-38m[.]pages[.]dev
+quickq-cn[.]com
+clash-cn[.]com
+letsv-vpn[.]com
+x.x-x[.]icu
+zh.x-x[.]icu
+rui.x-x[.]icu
+
+
+
+NETWORK - URLS
+Initial Download
+hxxps://kk9win[.]oss-cn-hongkong[.]aliyuncs[.]com/finalshell-SetupX64[.]zip
+
+Payload Hosting - Campaign 1 (kkwinapp bucket)
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/zj[.]mp4
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/1[.]1x1
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/1[.]d11
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/zj[.]bin
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/msvcr100[.]dll
+
+C2 Beacon - Campaign 1
+hxxps://kkwinapp[.]oss-cn-hongkong[.]aliyuncs[.]com/dow/upload?log=*
+
+Payload Hosting - Campaign 2 (qyyop456 bucket
+hxxps://qyyop456[.]oss-cn-hongkong[.]aliyuncs[.]com
+
+Payload Hosting - Campaign 3 (tyyopp123 bucket)
+hxxps://tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+
+Payload Hosting - Campaign 4 (ssowindows bucket)
+hxxps://ssowindows[.]oss-cn-hongkong[.]aliyuncs[.]com
+
+Geolocation Abuse (Legitimate - monitor for LetvClient/1.0 User-Agent)
+hxxps://g3[.]letv[.]com/r?format=1
+
+
+
+NETWORK - IP ADDRESSES
+45.192.208.126      # Primary C2 (x[.]x-x[.]icu resolves to)
+103.45.64.31        # Additional C2 
+45.192.169.97       # Additional C2 
+
+
+
+NETWORK - C2 PORTS
+5947/TCP            # Primary C2 port (x[.]x-x[.]icu:5947)
+8080/TCP            # Additional C2 port
+
+
+
+NETWORK - PROTOCOL SIGNATURES
+MPK1 Magic Bytes:   4D 50 4B 31
+User-Agent:         LetvClient/1.0  (monitor g3[.]letv[.]com connections)
+
+
+
+FILE SYSTEM
+%LOCALAPPDATA%\Programs\Bvasted\
+%LOCALAPPDATA%\Programs\Bvasted\Setupexe[.]exe
+%LOCALAPPDATA%\Programs\Bvasted\rcdll[.]dll
+%LOCALAPPDATA%\Programs\Bvasted\oob[.]xml
+%LOCALAPPDATA%\Programs\Bvasted\msvcr100[.]dll
+C:\ProgramData\Kong\Keylogger\<YYYY-MM-DD>.txt
+C:\Windows\System32\<plugin>.dll   # C2-pushed plugins
+
+
+
+REGISTRY
+HKCU\Software\Kong\
+HKCU\Software\Kong\Client\ClientVersion
+HKCU\Software\Kong\Client\ClientVersion\LastHash
+HKCU\Software\Kong\Client\Login\Temp
+HKCU\Software\Kong\Client\Login\Permanent
+HKCU\Software\Kong\Client\Plugins
+HKCU\Software\Kong\Client\Note
+HKCU\Software\Kong\Client\Group
+
+
+
+HOST-BASED INDICATORS
+# Scheduled Task
+SimpleActivityScheduleTimer_{*}    # Wildcard GUID suffix
+
+# Mutex Pattern
+Local\ClientMutex_%08X  
+Examples: 
+Local\ClientMutex_4DB67EEC
+Local\ClientMutex_0C235662             
+
+# Environment Variable Kill Switch
+KONG_SKIP_KEYLOGGER=1
+
+# File Attributes
+All files in %LOCALAPPDATA%\Programs\Bvasted\ marked HIDDEN|SYSTEM
+
+# PDB Attribution
+C:\Users\52pojie\Desktop\bin\bin\Release\net10.0\win-x64\native\APP3[.]pdb
+
+
+
+# Additional Alibaba Cloud Buckets:
+qyyop456[.]oss-cn-hongkong[.]aliyuncs[.]com
+tyyopp123[.]oss-cn-hongkong[.]aliyuncs[.]com
+ssowindows[.]oss-cn-hongkong[.]aliyuncs[.]com
+(consistent pattern: random bucket names, Hong Kong region)
